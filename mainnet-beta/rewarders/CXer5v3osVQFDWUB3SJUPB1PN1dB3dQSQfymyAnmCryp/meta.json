@@ -1,0 +1,89 @@
+{
+  "authority": "EozcGg8XSB51c6Dg2pdtSXBNJ9GLrcZtaQAHCUycxpxD",
+  "mintWrapper": "6TzUHRDkhoFEjRui4cYMtzGeqNSmbJop5fqmL7NkCACZ",
+  "quarries": [
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 0,
+        "lastUpdateTs": "1735230825",
+        "numMiners": "745",
+        "rewardsPerTokenStored": "184384976358156744084",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "5458222029557"
+      },
+      "index": 0,
+      "quarry": "73MxqaQeQwoHZAuCEFyyC94XYnJw1PPepiX1FBZXXX2E",
+      "slug": "qrstsol-sol",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "9qkeuJ3bcskGrJySqx7koV7pqCVkVeywDzX47v3vdxJC"
+      }
+    },
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 1,
+        "lastUpdateTs": "1719879868",
+        "numMiners": "111",
+        "rewardsPerTokenStored": "3817633665607805915",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "4363719261"
+      },
+      "index": 1,
+      "quarry": "CmthbUcU4a3WZUY5gWwPknta4gTGzS9p4FRn3YSPGXZT",
+      "slug": "qrpstsol",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "8XM68kWAuna73c4JnEFKCAiwzfpUpWMF35FxWGTRVFqD"
+      }
+    },
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 2,
+        "lastUpdateTs": "1683557460",
+        "numMiners": "1",
+        "rewardsPerTokenStored": "375650094014736463055",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "0"
+      },
+      "index": 2,
+      "quarry": "3HV6aLvfeNdzqWPwGoBXDYnrS5wNu17r8bh28U7K1ZcN",
+      "slug": "epodd",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "EPoDdEcDQ478YNRAiMYMHLs7mEnmo5z9322Q2D5exKFU"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 8,
+    "mint": "E7deLSK8XH7G8b51FV7491khokps8RESZRqYozkAFGDC"
+  },
+  "rewardsTokenInfo": {
+    "address": "E7deLSK8XH7G8b51FV7491khokps8RESZRqYozkAFGDC",
+    "chainId": 101,
+    "decimals": 8,
+    "extensions": {
+      "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+      "assetContract": "https://etherscan.io/address/0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+      "bridgeContract": "https://etherscan.io/address/0x3ee18B2214AFF97000D974cf647E7C347E8fa585",
+      "coingeckoId": "lido-dao",
+      "source": "quarry-iou",
+      "twitter": "https://twitter.com/LidoFinance",
+      "underlyingTokens": [
+        "HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p"
+      ],
+      "website": "https://lido.fi/"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/HZRCwxP2Vq9PCpPXooayhJ2bxTpo5xfpQrwB1svh332p/logo.png",
+    "name": "Lido DAO Token (Portal) (IOU)",
+    "symbol": "iouLDO",
+    "tags": [
+      "wrapped",
+      "ethereum",
+      "quarry-iou"
+    ]
+  }
+}

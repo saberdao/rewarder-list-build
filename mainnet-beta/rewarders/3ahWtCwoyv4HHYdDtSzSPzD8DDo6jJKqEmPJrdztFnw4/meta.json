@@ -1,0 +1,87 @@
+{
+  "authority": "FXish3WUZYR5cjh1Q3E3tD6QVtKfYEDBEFT1vn9Q9q2x",
+  "mintWrapper": "CtqVH46ZzoFU6CeFT9YSPfaZkUANYePaDksaK6Hyr8gi",
+  "quarries": [
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 0,
+        "lastUpdateTs": "1723227958",
+        "numMiners": "875",
+        "rewardsPerTokenStored": "1305246585935683504156",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "83997395692"
+      },
+      "index": 0,
+      "quarry": "9V6JzZUEekr28sm8QbMaUQX4StERmV9d59G34foEsKWa",
+      "slug": "pousdc",
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "C9PXceoq8uho2RZDGdtxYmyGYXeJUABaUP4qn37wQCgB"
+      }
+    },
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 1,
+        "lastUpdateTs": "1646859294",
+        "numMiners": "2",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "0"
+      },
+      "index": 1,
+      "quarry": "DYKdtzC8GgY977L3C62xizFYuCWy62gDAeKrna9kZBPK",
+      "slug": "pusdt",
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "3RudPTAkfcq9Q9Jk8SVeCoecCBmdKMj6q5smsWzxqtqZ"
+      }
+    },
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 2,
+        "lastUpdateTs": "1710917480",
+        "numMiners": "58",
+        "rewardsPerTokenStored": "3244985755969913657043253",
+        "rewardsShare": "10529671586757",
+        "totalTokensDeposited": "12058384797"
+      },
+      "index": 2,
+      "quarry": "6F6SvQNvUiLCcWnGoigfNcahrk7s6XYXqE2caL7H5Nmb",
+      "slug": "qrpole-cash",
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "G7i3sHDGzokmXxYufU1TDvTpZ3BJTZybQ5vazJxn9aqK"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "4Bc2xGiHFmfkSWH2csinUTKVymGrYVADVZD2iKdWw5dp"
+  },
+  "rewardsTokenInfo": {
+    "address": "4Bc2xGiHFmfkSWH2csinUTKVymGrYVADVZD2iKdWw5dp",
+    "chainId": 101,
+    "decimals": 6,
+    "extensions": {
+      "discord": "https://discord.gg/RASngHfHhS",
+      "github": "https://github.com/pole-finance",
+      "medium": "https://medium.com/pole-aggregator",
+      "serumV3Usdc": "Ak1UDskYAjztX5YkxW8dmERjLwS9fYmk1b3G6fpWDxp6",
+      "source": "quarry-iou",
+      "twitter": "https://twitter.com/Pole_Finance",
+      "underlyingTokens": [
+        "PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3"
+      ],
+      "website": "https://pole.finance"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/PoLEXM5xikzieXENFvP7WwHJPorcFiCUVuMo9BAGZT3/logo.svg",
+    "name": "Pole Aggregator Governance Token (IOU)",
+    "symbol": "iouPOLE",
+    "tags": [
+      "quarry-iou"
+    ]
+  }
+}

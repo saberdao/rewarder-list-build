@@ -1,0 +1,35 @@
+{
+  "authority": "FzhKkiH91dPNGsdWjAkYSuELjhbpyB6XZnfNV5Q3o5d9",
+  "mintWrapper": "28QXhLstYwnvxt9E9m53cnRNCrWsGrNQnBgPihgaVyzT",
+  "quarries": [
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 0,
+        "lastUpdateTs": "1654980069",
+        "numMiners": "1",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "1",
+        "totalTokensDeposited": "0"
+      },
+      "index": 0,
+      "quarry": "B88zFXjY29tSPqdKukurrbnBPpGToX1fCDhpoEPg7EGM",
+      "slug": "aox49",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "Aox49moN6MugLheGwqMBTLi7aFojfhtiLxtHsaQzJgoh"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 9,
+    "mint": "5nzGVctzCEkMuJEAmyxrbchLEyRjsBqt3oY7WpHNwqcP"
+  },
+  "rewardsTokenInfo": {
+    "address": "5nzGVctzCEkMuJEAmyxrbchLEyRjsBqt3oY7WpHNwqcP",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Token 5nzG",
+    "symbol": "5nzGV"
+  }
+}

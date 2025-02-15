@@ -1,0 +1,43 @@
+{
+  "authority": "7bz4h6T4p39ozCnz7vpDmmiFNssyV1d1Hu3TKcDXmSXu",
+  "mintWrapper": "FUQuzSX2Z7FWz67TYu5xJ6cxFBBB1SAz1bLUCWJoU9eT",
+  "quarries": [
+    {
+      "index": 0,
+      "isReplica": false,
+      "mergePool": "7fJY426mg7aCk7AiWjf43L3ozq7DS331iRv7fAj4nr9m",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "BcazXeNsFbMbKxnZKtaoCMmayGKrZfALzH3yj45wP9Dc"
+      },
+      "primaryTokenInfo": {
+        "address": "BcazXeNsFbMbKxnZKtaoCMmayGKrZfALzH3yj45wP9Dc",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token Bcaz",
+        "symbol": "BcazX"
+      },
+      "quarry": "HWZp3ZNN6AXcqpGPFVV4j4UYmVz6Q1brAMUCyWJP7y6x",
+      "replicaMint": "7VNf1vJkfCijTAtxGj3Ww7XxDT3Gw467PkqYRDnvBxPK",
+      "replicaQuarries": [],
+      "slug": "bcazx",
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "BcazXeNsFbMbKxnZKtaoCMmayGKrZfALzH3yj45wP9Dc"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "AaLNS8aeJnaGxBRTiZZiSzssWLicCjPEATyCQfem2ePL"
+  },
+  "rewardsTokenInfo": {
+    "address": "AaLNS8aeJnaGxBRTiZZiSzssWLicCjPEATyCQfem2ePL",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token AaLN",
+    "symbol": "AaLNS"
+  },
+  "slug": "G3wuAJBAqBR9XdpYoFwDgk3iTMzJxoVHmSLo4djzk4Es"
+}

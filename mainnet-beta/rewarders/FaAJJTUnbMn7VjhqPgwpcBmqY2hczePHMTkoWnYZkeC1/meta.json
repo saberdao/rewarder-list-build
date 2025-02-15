@@ -1,0 +1,16 @@
+{
+  "authority": "85Y6fXT57uMWHKwa26BMS1CXE52ko7M7XtynyTRcfKJr",
+  "mintWrapper": "HkLsfnjnQDYoYEkXKnk37A42NkFTkYEQHAm6VtDDc6Pc",
+  "quarries": [],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "4LA9j1ivMLcJYss1FBCwM9bGZEqyvZSDcoVmn37CTN9S"
+  },
+  "rewardsTokenInfo": {
+    "address": "4LA9j1ivMLcJYss1FBCwM9bGZEqyvZSDcoVmn37CTN9S",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token 4LA9",
+    "symbol": "4LA9j"
+  }
+}

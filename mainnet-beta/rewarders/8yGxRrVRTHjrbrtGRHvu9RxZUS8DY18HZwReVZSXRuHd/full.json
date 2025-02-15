@@ -1,0 +1,17 @@
+{
+  "authority": "7bz4h6T4p39ozCnz7vpDmmiFNssyV1d1Hu3TKcDXmSXu",
+  "mintWrapper": "EBFTVLLe4JaYuVgZe9SPUQmFyY6UFyUeqjqcgbA1wvUn",
+  "quarries": [],
+  "rewardsToken": {
+    "decimals": 2,
+    "mint": "ArWNL2PLgAM56yXiQJ9UhqUSWZ8bjHYwgKdQgnieBMsv"
+  },
+  "rewardsTokenInfo": {
+    "address": "ArWNL2PLgAM56yXiQJ9UhqUSWZ8bjHYwgKdQgnieBMsv",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Token ArWN",
+    "symbol": "ArWNL"
+  },
+  "slug": "8yGxRrVRTHjrbrtGRHvu9RxZUS8DY18HZwReVZSXRuHd"
+}

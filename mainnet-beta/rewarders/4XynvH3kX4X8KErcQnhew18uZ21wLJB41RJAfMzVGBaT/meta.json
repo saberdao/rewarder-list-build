@@ -1,0 +1,35 @@
+{
+  "authority": "7bz4h6T4p39ozCnz7vpDmmiFNssyV1d1Hu3TKcDXmSXu",
+  "mintWrapper": "BSDdoGChBkLprXbnhWhD1uExzmH2Fhqr2s7MAobio1jL",
+  "quarries": [
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 0,
+        "lastUpdateTs": "0",
+        "numMiners": "0",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "0"
+      },
+      "index": 0,
+      "quarry": "AFD7DrTntRHpyJ2RhVnKvuCHeyvjbZJnU4FvtE3DikYo",
+      "slug": "h8bwk",
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "H8BWkkGKpSpZVhuvuCAHBwWGWVrkAq9Dw3EH3okjy8dg"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 9,
+    "mint": "3AayRpG5hnpMeqJ1gHfGgLK99NEx83Nk3ay97SqgTkCL"
+  },
+  "rewardsTokenInfo": {
+    "address": "3AayRpG5hnpMeqJ1gHfGgLK99NEx83Nk3ay97SqgTkCL",
+    "chainId": 101,
+    "decimals": 9,
+    "name": "Token 3Aay",
+    "symbol": "3AayR"
+  }
+}

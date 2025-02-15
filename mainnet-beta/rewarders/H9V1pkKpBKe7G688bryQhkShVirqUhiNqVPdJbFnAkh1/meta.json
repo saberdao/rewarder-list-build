@@ -1,0 +1,35 @@
+{
+  "authority": "7bz4h6T4p39ozCnz7vpDmmiFNssyV1d1Hu3TKcDXmSXu",
+  "mintWrapper": "GASKZXMsEbWWANiV1qvS4UBaaEu8g4Mm5mEbn82rPBNu",
+  "quarries": [
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 0,
+        "lastUpdateTs": "1688755970",
+        "numMiners": "31",
+        "rewardsPerTokenStored": "4224506767740453191032",
+        "rewardsShare": "852",
+        "totalTokensDeposited": "528111"
+      },
+      "index": 0,
+      "quarry": "sRHkN3f98Q1xXrDSCQrPUde1pZ4uM6t89YQ6o364ZLH",
+      "slug": "ffmnw",
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "FFmnwFo5SP8v9x4MzEDDgeQvzo6R3Fp5teEhZLsENWM9"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "EVUDh6mwmvcUAif2HqFNM7VZaZDn6rMwiHf6D3retnAi"
+  },
+  "rewardsTokenInfo": {
+    "address": "EVUDh6mwmvcUAif2HqFNM7VZaZDn6rMwiHf6D3retnAi",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token EVUD",
+    "symbol": "EVUDh"
+  }
+}

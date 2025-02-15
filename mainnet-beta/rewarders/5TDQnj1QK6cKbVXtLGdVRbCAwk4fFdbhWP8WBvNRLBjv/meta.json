@@ -1,0 +1,35 @@
+{
+  "authority": "7bz4h6T4p39ozCnz7vpDmmiFNssyV1d1Hu3TKcDXmSXu",
+  "mintWrapper": "DYifR62P7fn1Zf8H1k3fmqEi5AvgXztrowxw7RrM1rDC",
+  "quarries": [
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 0,
+        "lastUpdateTs": "1729700946",
+        "numMiners": "11",
+        "rewardsPerTokenStored": "184813119806510323358",
+        "rewardsShare": "38888",
+        "totalTokensDeposited": "402795"
+      },
+      "index": 0,
+      "quarry": "8uF5zTL1zw5TdeVNjuf2dZ93eJzDGTUHpKY8f5uu3WLF",
+      "slug": "aheia",
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "AHEianNcfVVtNY9aPqyQ61tGuF729wsStTkT5TT8HBp3"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 2,
+    "mint": "F1WY2yeV6hHLiJpwARePQN21kfiSRHYstj5aSDrQZyJ5"
+  },
+  "rewardsTokenInfo": {
+    "address": "F1WY2yeV6hHLiJpwARePQN21kfiSRHYstj5aSDrQZyJ5",
+    "chainId": 101,
+    "decimals": 2,
+    "name": "Token F1WY",
+    "symbol": "F1WY2"
+  }
+}

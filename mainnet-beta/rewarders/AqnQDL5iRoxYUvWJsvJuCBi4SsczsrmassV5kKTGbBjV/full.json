@@ -1,0 +1,43 @@
+{
+  "authority": "7bz4h6T4p39ozCnz7vpDmmiFNssyV1d1Hu3TKcDXmSXu",
+  "mintWrapper": "8Ro6PmiPdcmr8ZWFvzPDWhG79RciLapdetDEfAqsFDhf",
+  "quarries": [
+    {
+      "index": 0,
+      "isReplica": false,
+      "mergePool": "GQXvMLfmgSNpTCQzM8McTzowN1CaQAf2BK4iG9nPRib9",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "GuvTUFUoU87Bzsd1xV2sEmGMRmiPnED9cYKDk7d6Nqgk"
+      },
+      "primaryTokenInfo": {
+        "address": "GuvTUFUoU87Bzsd1xV2sEmGMRmiPnED9cYKDk7d6Nqgk",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token GuvT",
+        "symbol": "GuvTU"
+      },
+      "quarry": "2AhtJgALrvD3rbyGH1odCKiegj69HzotQYMsEjX7gchJ",
+      "replicaMint": "Hrr5BQvTgSsoti9r2pY3XPpagXG4ZZsX8qh8oJVTF4tf",
+      "replicaQuarries": [],
+      "slug": "guvtu",
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "GuvTUFUoU87Bzsd1xV2sEmGMRmiPnED9cYKDk7d6Nqgk"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "CD48gsMkxp4EH25SEVdwpGxg1aVXSE3ozCBUVnJwTcai"
+  },
+  "rewardsTokenInfo": {
+    "address": "CD48gsMkxp4EH25SEVdwpGxg1aVXSE3ozCBUVnJwTcai",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token CD48",
+    "symbol": "CD48g"
+  },
+  "slug": "AqnQDL5iRoxYUvWJsvJuCBi4SsczsrmassV5kKTGbBjV"
+}

@@ -1,0 +1,17 @@
+{
+  "authority": "3F32DrcK3LxH4J7vr2v9t2y5oZm5XsM5nHJ2rCDwXzkC",
+  "mintWrapper": "2MVTYrJUGhzrj2aX95ty8MGWKjfCmUXMY6dQfZcbpb1o",
+  "quarries": [],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "SUNNYYnLAaJAWEqBikjzPbwsVgnRpuuoogwg3d5Qa97"
+  },
+  "rewardsTokenInfo": {
+    "address": "SUNNYYnLAaJAWEqBikjzPbwsVgnRpuuoogwg3d5Qa97",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token SUNN",
+    "symbol": "SUNNY"
+  },
+  "slug": "3c7iEjggL8Pd6wTt6nm5LXUNRtfFaDDrKEp1juKZYTke"
+}

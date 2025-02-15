@@ -1,0 +1,43 @@
+{
+  "authority": "7bz4h6T4p39ozCnz7vpDmmiFNssyV1d1Hu3TKcDXmSXu",
+  "mintWrapper": "A3KZpqGrvMACkj4Cv3yTPZ3aQtNKNejmm6odKeerpZ5m",
+  "quarries": [
+    {
+      "index": 0,
+      "isReplica": false,
+      "mergePool": "2SoQt4dosicwqDMJAfiTTkpkiQiFWtJWWmViJp8AsHSU",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "FFmnwFo5SP8v9x4MzEDDgeQvzo6R3Fp5teEhZLsENWM9"
+      },
+      "primaryTokenInfo": {
+        "address": "FFmnwFo5SP8v9x4MzEDDgeQvzo6R3Fp5teEhZLsENWM9",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token FFmn",
+        "symbol": "FFmnw"
+      },
+      "quarry": "Qzir9qJjthUnwv2CvVybmaDe7Z8KERG2QUEobxHxJpJ",
+      "replicaMint": "FfUTBkfKXZpomt9FLU3zUQhNjzrDFFdJgysqxWwwu2iV",
+      "replicaQuarries": [],
+      "slug": "ffmnw",
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "FFmnwFo5SP8v9x4MzEDDgeQvzo6R3Fp5teEhZLsENWM9"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "J5zFGuqu9N3TgfbzxJePm2EvxLaGvgjCscRPZR1Ppw3e"
+  },
+  "rewardsTokenInfo": {
+    "address": "J5zFGuqu9N3TgfbzxJePm2EvxLaGvgjCscRPZR1Ppw3e",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token J5zF",
+    "symbol": "J5zFG"
+  },
+  "slug": "Ck92zQSaKVR3DQGM2hSiEsyMnYKfGGvmiYSfZk73vB2r"
+}

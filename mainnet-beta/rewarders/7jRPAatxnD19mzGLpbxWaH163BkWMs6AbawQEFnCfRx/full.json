@@ -1,0 +1,43 @@
+{
+  "authority": "7bz4h6T4p39ozCnz7vpDmmiFNssyV1d1Hu3TKcDXmSXu",
+  "mintWrapper": "anmeT9SkBctnfxwYtfJn6McgZPgrakhkE2higxCfjRp",
+  "quarries": [
+    {
+      "index": 0,
+      "isReplica": false,
+      "mergePool": "LJjXhfsxirFchAc1a9SvS459mLtZCV3atEk1ELRB7Jn",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 2,
+        "mint": "3Xb4P1xjjrE1q2f9bERkWZkQoLy4QjnJKg1rynKxgQsr"
+      },
+      "primaryTokenInfo": {
+        "address": "3Xb4P1xjjrE1q2f9bERkWZkQoLy4QjnJKg1rynKxgQsr",
+        "chainId": 101,
+        "decimals": 2,
+        "name": "Token 3Xb4",
+        "symbol": "3Xb4P"
+      },
+      "quarry": "HqAZRLyARXtWNGfJ3XNVcNJ58e7mSQUyNk39mLZdjdjp",
+      "replicaMint": "F1ZeirdkpnREGZzR1qVo8wykPEhM35wi3pJGH5c5QGST",
+      "replicaQuarries": [],
+      "slug": "3xb4p",
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "3Xb4P1xjjrE1q2f9bERkWZkQoLy4QjnJKg1rynKxgQsr"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "J9fXd2hZvKMot9pkyyHLNvzFbFRg9yCvyZj4BDqWTuHj"
+  },
+  "rewardsTokenInfo": {
+    "address": "J9fXd2hZvKMot9pkyyHLNvzFbFRg9yCvyZj4BDqWTuHj",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token J9fX",
+    "symbol": "J9fXd"
+  },
+  "slug": "7jRPAatxnD19mzGLpbxWaH163BkWMs6AbawQEFnCfRx"
+}

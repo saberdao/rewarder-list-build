@@ -1,0 +1,35 @@
+{
+  "authority": "7bz4h6T4p39ozCnz7vpDmmiFNssyV1d1Hu3TKcDXmSXu",
+  "mintWrapper": "8Ro6PmiPdcmr8ZWFvzPDWhG79RciLapdetDEfAqsFDhf",
+  "quarries": [
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 0,
+        "lastUpdateTs": "1661734781",
+        "numMiners": "3",
+        "rewardsPerTokenStored": "1049675425003288286722",
+        "rewardsShare": "5000000",
+        "totalTokensDeposited": "1251223"
+      },
+      "index": 0,
+      "quarry": "2AhtJgALrvD3rbyGH1odCKiegj69HzotQYMsEjX7gchJ",
+      "slug": "guvtu",
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "GuvTUFUoU87Bzsd1xV2sEmGMRmiPnED9cYKDk7d6Nqgk"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "CD48gsMkxp4EH25SEVdwpGxg1aVXSE3ozCBUVnJwTcai"
+  },
+  "rewardsTokenInfo": {
+    "address": "CD48gsMkxp4EH25SEVdwpGxg1aVXSE3ozCBUVnJwTcai",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token CD48",
+    "symbol": "CD48g"
+  }
+}

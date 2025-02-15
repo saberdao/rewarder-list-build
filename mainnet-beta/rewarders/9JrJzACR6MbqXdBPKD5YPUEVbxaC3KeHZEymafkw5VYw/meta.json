@@ -1,0 +1,88 @@
+{
+  "authority": "BTziQWZizrCsmmJX2stipZ66xa8NHXhaSSDsX7qDAfVT",
+  "mintWrapper": "GGdEkKHeBXyasQcgB1gxCqrTkDUXsnLAUGJspsdhkmsn",
+  "quarries": [
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 0,
+        "lastUpdateTs": "1732905800",
+        "numMiners": "47",
+        "rewardsPerTokenStored": "29699127966351133871107",
+        "rewardsShare": "48",
+        "totalTokensDeposited": "7033376565"
+      },
+      "index": 0,
+      "quarry": "En7M6um6nPhUyko6cAtW9B6pHuLbHmieTPeN3BC2FNSs",
+      "slug": "y84td",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "Y84TD8kE4xTG2FTi8z66VUXfY4bYEmnoVXKY5tGqPjc"
+      }
+    },
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 1,
+        "lastUpdateTs": "1736913672",
+        "numMiners": "232",
+        "rewardsPerTokenStored": "5721195499690753292",
+        "rewardsShare": "50",
+        "totalTokensDeposited": "134140621248477"
+      },
+      "index": 1,
+      "quarry": "DFuCTcbzKoKoBWNLK5XCgQfdv5d4Xwc9DnZjSPWpzPt1",
+      "slug": "sntr",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "SENBBKVCM7homnf5RX9zqpf1GFe935hnbU4uVzY1Y6M"
+      }
+    },
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 2,
+        "lastUpdateTs": "1657552084",
+        "numMiners": "15",
+        "rewardsPerTokenStored": "884595983493323752189040",
+        "rewardsShare": "2",
+        "totalTokensDeposited": "0"
+      },
+      "index": 2,
+      "quarry": "H6WaKqi3BftxYvUovFxznQWm2qqZHjBUbXDbMW41DzJq",
+      "slug": "fcon",
+      "stakedToken": {
+        "decimals": 4,
+        "mint": "HovGjrBGTfna4dvg6exkMxXuexB3tUfEZKcut8AWowXj"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 9,
+    "mint": "BMzyreEcn1UQkomDd3dy46FfiB1wWZXvv975opFe9Tvd"
+  },
+  "rewardsTokenInfo": {
+    "address": "BMzyreEcn1UQkomDd3dy46FfiB1wWZXvv975opFe9Tvd",
+    "chainId": 101,
+    "decimals": 9,
+    "extensions": {
+      "coingeckoId": "sentre",
+      "discord": "https://discord.gg/FyHJgQ7W",
+      "medium": "https://sentre.medium.com",
+      "source": "quarry-iou",
+      "telegram": "https://t.me/Sentre",
+      "twitter": "https://twitter.com/SentreProtocol",
+      "underlyingTokens": [
+        "SENBBKVCM7homnf5RX9zqpf1GFe935hnbU4uVzY1Y6M"
+      ],
+      "website": "https://sentre.io"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/SENBBKVCM7homnf5RX9zqpf1GFe935hnbU4uVzY1Y6M/logo.png",
+    "name": "Sentre (IOU)",
+    "symbol": "iouSNTR",
+    "tags": [
+      "utility-token",
+      "quarry-iou"
+    ]
+  }
+}

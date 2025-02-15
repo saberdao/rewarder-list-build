@@ -1,0 +1,963 @@
+{
+  "authority": "DgyyH4zytYBZNkZx3GS9h2ZCgvst7q3bF6aKevfffF1x",
+  "info": {
+    "address": "J829VB5Fi7DMoMLK7bsVGFM82cRU61BKtiPz9PNFdL7b",
+    "color": "#EF39F8",
+    "description": "The easiest way to stake Solana.",
+    "id": "marinade",
+    "name": "Marinade",
+    "networks": [
+      "mainnet-beta",
+      "devnet"
+    ],
+    "redeemer": {
+      "method": "marinade",
+      "redeemerKey": "4seufhTiGG7Cq7rLLKeyYqoELkztecKnF3bx5ARfPW6M",
+      "redeemerVaultATA": "4zDEyfrJcGR3DQRzaThYSRxkeFM7zE4q12diwtbzQXPJ",
+      "underlyingToken": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
+      "underlyingTokenInfo": {
+        "address": "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "coingeckoId": "marinade",
+          "discord": "https://discord.gg/mGqZA5pjRN",
+          "github": "https://github.com/marinade-finance",
+          "medium": "https://medium.com/marinade-finance",
+          "twitter": "https://twitter.com/MarinadeFinance",
+          "website": "https://marinade.finance"
+        },
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
+        "name": "Marinade",
+        "symbol": "MNDE"
+      }
+    },
+    "website": "https://marinade.finance"
+  },
+  "mintWrapper": "Cz2x6Rmwa3aJRXpaFyw13EBoz3V4UBBNqWZEbjYmJjDZ",
+  "quarries": [
+    {
+      "index": 0,
+      "isReplica": false,
+      "mergePool": "HqYwSuf2Eoi6y9htEYX5FZJvchhD8hwjZoTdmjHFCnhq",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+      },
+      "primaryTokenInfo": {
+        "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "coingeckoId": "msol",
+          "currency": "SOL",
+          "discord": "https://discord.gg/mGqZA5pjRN",
+          "github": "https://github.com/marinade-finance",
+          "medium": "https://medium.com/marinade-finance",
+          "serumV3Usdc": "6oGsL2puUgySccKzn9XA9afqF217LfxP5ocq4B3LWsjy",
+          "serumV3Usdt": "HxkQdUnrPdHwXP5T9kewEXs3ApgvbufuTfdw9v1nApFd",
+          "source": "marinade",
+          "sourceUrl": "https://marinade.finance/app/staking",
+          "twitter": "https://twitter.com/MarinadeFinance",
+          "website": "https://marinade.finance"
+        },
+        "logoURI": "https://cdn.jsdelivr.net/gh/saber-hq/spl-token-icons@master/icons/101/mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So.png",
+        "name": "Marinade staked SOL (mSOL)",
+        "symbol": "mSOL",
+        "tags": [
+          "saber-mkt-sol"
+        ]
+      },
+      "quarry": "Hs2XmWQFw3ExawMQkCsBGQGX73JG1n2Qpjm8G7dYRw7m",
+      "replicaMint": "J6dfrHc3gfKqZzHgZWM3ENRNB7Z1xmW66jvR3aSexVbd",
+      "replicaQuarries": [],
+      "slug": "msol",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So"
+      }
+    },
+    {
+      "index": 1,
+      "isReplica": false,
+      "mergePool": "JDoon6rtyMrEiptXhYJgpsqA4bcGowLK13PME9BY8eAm",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj"
+      },
+      "primaryTokenInfo": {
+        "address": "LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "discord": "https://discord.gg/mGqZA5pjRN",
+          "github": "https://github.com/marinade-finance",
+          "medium": "https://medium.com/marinade-finance",
+          "twitter": "https://twitter.com/MarinadeFinance",
+          "website": "https://marinade.finance"
+        },
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj/logo.png",
+        "name": "Marinade LP token",
+        "symbol": "mSOL-SOL-LP",
+        "tags": [
+          "lp-token"
+        ]
+      },
+      "quarry": "AUxNeq9F3BWmX8Kcc4ZstHpkRXxFXKjKudePJt1LtfiS",
+      "replicaMint": "oZ4LqXpwXp4WcruCWegHHNCVBCpHQD1kHDBhtLSVD4n",
+      "replicaQuarries": [],
+      "slug": "msol-sol-lp",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "LPmSozJJ8Jh69ut2WP3XmVohTjL4ipR18yiCzxrUmVj"
+      }
+    },
+    {
+      "index": 2,
+      "isReplica": true,
+      "mergePool": "4AKCrdrZKzC7U9TEKVCWxeVgR1undu5c2FAZGvx4mTWx",
+      "primaryQuarries": [
+        {
+          "displayRewardsToken": {
+            "address": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u",
+            "chainId": 101,
+            "decimals": 6,
+            "extensions": {
+              "coingeckoId": "saber",
+              "discord": "https://chat.saber.so",
+              "github": "https://github.com/saber-hq",
+              "medium": "https://blog.saber.so",
+              "serumV3Usdc": "HXBi8YBwbh4TXF6PjVw81m8Z3Cc4WBofvauj5SBFdgUs",
+              "twitter": "https://twitter.com/saber_hq",
+              "website": "https://saber.so"
+            },
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Saber2gLauYim4Mvftnrasomsv6NvAuncvMEZwcLpD1/logo.svg",
+            "name": "Saber IOU Token (Liquidity Mining Rewards)",
+            "symbol": "SBR"
+          },
+          "quarry": "7193EeecxsPPv9TMoQATTN8i1eTqEUSNU8aDLuFCQy68",
+          "rewarder": "rXhAofQCT7NN9TUqigyEAUzV1uLL4boeD8CRkNBSkYk",
+          "rewardsToken": {
+            "decimals": 6,
+            "mint": "iouQcQBAiEXe6cKLS85zmZxUqaCqBdeHFpqKoSz615u"
+          },
+          "slug": "msol-sol"
+        }
+      ],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz"
+      },
+      "primaryTokenInfo": {
+        "address": "SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "saber",
+          "underlyingTokens": [
+            "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+            "So11111111111111111111111111111111111111112"
+          ],
+          "website": "https://app.saber.so/pools/msol_sol"
+        },
+        "logoURI": "https://raw.githubusercontent.com/saber-hq/saber-lp-token-list/master/assets/mainnet/SoLEao8wTzSfqhuou8rcYsVoLjthVmiXuEjzdNPMnCz/icon.png",
+        "name": "Saber mSOL-SOL LP",
+        "symbol": "mSOL-SOL",
+        "tags": [
+          "saber-stableswap-lp"
+        ]
+      },
+      "quarry": "8k36P2RifbC9rYFqfvyYfgLmyq7RgA2JfmtYo57KMBLa",
+      "replicaMint": "FNmgYiucbSPjwmzK3ZqUydBsHMXMRHt3ouoNfF3amqVi",
+      "replicaQuarries": [
+        {
+          "displayRewardsToken": {
+            "address": "M1KJcP7NGRoHHdjbzeLt2fCMFQBEneK1pj3ubhuLRtP",
+            "chainId": 101,
+            "decimals": 9,
+            "extensions": {
+              "coingeckoId": "marinade",
+              "discord": "https://discord.gg/mGqZA5pjRN",
+              "github": "https://github.com/marinade-finance",
+              "medium": "https://medium.com/marinade-finance",
+              "source": "quarry-iou",
+              "twitter": "https://twitter.com/MarinadeFinance",
+              "underlyingTokens": [
+                "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey"
+              ],
+              "website": "https://marinade.finance"
+            },
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
+            "name": "Marinade (IOU)",
+            "symbol": "iouMNDE",
+            "tags": [
+              "quarry-iou"
+            ]
+          },
+          "quarry": "6ywGNd6BjPJi4mg9V8xXQaykM21XxhHEszxArhvobzR2",
+          "rewarder": "CduAhHmZe3n5KkxhP4EjqTZjWTuptYnfXvi4ULyF7fVc",
+          "rewardsToken": {
+            "decimals": 9,
+            "mint": "M1KJcP7NGRoHHdjbzeLt2fCMFQBEneK1pj3ubhuLRtP"
+          },
+          "slug": "qrmsol-sol"
+        },
+        {
+          "displayRewardsToken": {
+            "address": "CNxb8WdKv55ep89YgFx6s384xLbEvnWTPgMaf8yisG3j",
+            "chainId": 101,
+            "decimals": 9,
+            "extensions": {
+              "coingeckoId": "marinade",
+              "discord": "https://discord.gg/mGqZA5pjRN",
+              "github": "https://github.com/marinade-finance",
+              "medium": "https://medium.com/marinade-finance",
+              "source": "quarry-iou",
+              "twitter": "https://twitter.com/MarinadeFinance",
+              "underlyingTokens": [
+                "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey"
+              ],
+              "website": "https://marinade.finance"
+            },
+            "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
+            "name": "Marinade (IOU)",
+            "symbol": "iouMNDE",
+            "tags": [
+              "quarry-iou"
+            ]
+          },
+          "quarry": "8k36P2RifbC9rYFqfvyYfgLmyq7RgA2JfmtYo57KMBLa",
+          "rewarder": "J829VB5Fi7DMoMLK7bsVGFM82cRU61BKtiPz9PNFdL7b",
+          "rewardsToken": {
+            "decimals": 9,
+            "mint": "CNxb8WdKv55ep89YgFx6s384xLbEvnWTPgMaf8yisG3j"
+          },
+          "slug": "qrmsol-sol"
+        }
+      ],
+      "slug": "qrmsol-sol",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "FNmgYiucbSPjwmzK3ZqUydBsHMXMRHt3ouoNfF3amqVi"
+      }
+    },
+    {
+      "index": 3,
+      "isReplica": false,
+      "mergePool": "H5WuwHN158zhR5yXNMwFihPFtP3bfLg3kGaEKhr5rHV5",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "6UA3yn28XecAHLTwoCtjfzy3WcyQj1x13bxnH8urUiKt"
+      },
+      "primaryTokenInfo": {
+        "address": "6UA3yn28XecAHLTwoCtjfzy3WcyQj1x13bxnH8urUiKt",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "discord": "https://discord.com/invite/eSkK9X67Qj",
+          "github": "https://github.com/Friktion-Labs",
+          "medium": "https://friktionlabs.medium.com/",
+          "twitter": "https://twitter.com/friktion_labs",
+          "website": "https://friktion.fi"
+        },
+        "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6UA3yn28XecAHLTwoCtjfzy3WcyQj1x13bxnH8urUiKt/logo.png",
+        "name": "Friktion mSOL (Volt 01 Call)",
+        "symbol": "fcmSOL",
+        "tags": [
+          "friktion",
+          "friktion-share",
+          "volt-01",
+          "volt-01-call"
+        ]
+      },
+      "quarry": "6reWgQvR2U5TErw9ZDTdgoqpogH3iPKdTQkEtMjrRMPT",
+      "replicaMint": "3oQ64HsVDf3P663nUPKZ5yF8FiyxrndXAExQrMoKAoTp",
+      "replicaQuarries": [],
+      "slug": "fcmsol",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "6UA3yn28XecAHLTwoCtjfzy3WcyQj1x13bxnH8urUiKt"
+      }
+    },
+    {
+      "index": 4,
+      "isReplica": false,
+      "mergePool": "68XR3FNxurqjWLcuTExJx1s5zawkTZkF1kW9afCQoTA7",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "E2eevzN2TBWAL1LiALAfEYFLRBzSDLugLjiNuZg9ehwT"
+      },
+      "primaryTokenInfo": {
+        "address": "E2eevzN2TBWAL1LiALAfEYFLRBzSDLugLjiNuZg9ehwT",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "discord": "https://discord.gg/katana-hq",
+          "github": "https://github.com/Katana-Labs",
+          "twitter": "https://twitter.com/Katana_HQ",
+          "website": "https://app.katana.so"
+        },
+        "logoURI": "https://raw.githubusercontent.com/Katana-Labs/assets/master/token-list/E2eevzN2TBWAL1LiALAfEYFLRBzSDLugLjiNuZg9ehwT/logo.png",
+        "name": "Katana MSOL Covered Call Vault Share",
+        "symbol": "kcMSOL",
+        "tags": [
+          "Katana",
+          "share-token",
+          "utility-token"
+        ]
+      },
+      "quarry": "4vEpGyST5RVWpDEPp6FHrnkcbXyNN5sm9zpgzKgj3LQr",
+      "replicaMint": "5vvtprSabiwMXwk8rjRsr1hUnb3jUQsCrNo23UrcjQVx",
+      "replicaQuarries": [],
+      "slug": "kcmsol",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "E2eevzN2TBWAL1LiALAfEYFLRBzSDLugLjiNuZg9ehwT"
+      }
+    },
+    {
+      "index": 5,
+      "isReplica": false,
+      "mergePool": "CB6mMz2NLMi2cufY1dNSfXBywrQ5bbbd4cJ2qhHmKtqV",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "moRHQQGWrHkq6hY7DC47QqMgqRVH5XwbFfHwPC9gW8M"
+      },
+      "primaryTokenInfo": {
+        "address": "moRHQQGWrHkq6hY7DC47QqMgqRVH5XwbFfHwPC9gW8M",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token moRH",
+        "symbol": "moRHQ"
+      },
+      "quarry": "GhdVRwEQCzUFRJddWXchGpKU1MV6WmM8CVYbu2Z7zXFj",
+      "replicaMint": "HueFTTepX8gFasNQFwVRqFWBuMB8Gq3zpGKiS4b2jBCS",
+      "replicaQuarries": [],
+      "slug": "morhq",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "moRHQQGWrHkq6hY7DC47QqMgqRVH5XwbFfHwPC9gW8M"
+      }
+    },
+    {
+      "index": 6,
+      "isReplica": false,
+      "mergePool": "FaYxPKTdpSFXW2qjwSMqtF4vhbk8YN4S39w78kAc6RM4",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "maL1icYAjszHEwfk4h9ghWBYuxyprm91htCqqdjb77J"
+      },
+      "primaryTokenInfo": {
+        "address": "maL1icYAjszHEwfk4h9ghWBYuxyprm91htCqqdjb77J",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token maL1",
+        "symbol": "maL1i"
+      },
+      "quarry": "CuWqxK4kVC13K3iRginkLQqqFUn8UW5qqmjgRPQLfEBQ",
+      "replicaMint": "A1yAessYt7JP5mSGWzoRWjjHSfUcMVEezrCTA4tCm4jk",
+      "replicaQuarries": [],
+      "slug": "mal1i",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "maL1icYAjszHEwfk4h9ghWBYuxyprm91htCqqdjb77J"
+      }
+    },
+    {
+      "index": 7,
+      "isReplica": false,
+      "mergePool": "31YeV8DzDPopJMsxVB1nt22FTBpydD3x7MffHDcvCgzk",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "MRyBkXDgNY3Bv7GhJEHjCQeq5q3VxDd8ARsH17SoiDh"
+      },
+      "primaryTokenInfo": {
+        "address": "MRyBkXDgNY3Bv7GhJEHjCQeq5q3VxDd8ARsH17SoiDh",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token MRyB",
+        "symbol": "MRyBk"
+      },
+      "quarry": "6SUCGNuWuppCFVW62n4K1K5RDxiGbzLJ4CRZB6UwYVbR",
+      "replicaMint": "4kAPqT8ZuyqXPrpPFLNdmcKwDmKXS1m8WEtXo3T8J8Mp",
+      "replicaQuarries": [],
+      "slug": "mrybk",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "MRyBkXDgNY3Bv7GhJEHjCQeq5q3VxDd8ARsH17SoiDh"
+      }
+    },
+    {
+      "index": 8,
+      "isReplica": false,
+      "mergePool": "B35dhnHeDPtCLLka7MAoL9EWFikstiwoXNmcECw49rnj",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "MmEfxcdasUj9eyUc2p7iMiUcHqhJb2ej92H7DtzAW6b"
+      },
+      "primaryTokenInfo": {
+        "address": "MmEfxcdasUj9eyUc2p7iMiUcHqhJb2ej92H7DtzAW6b",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token MmEf",
+        "symbol": "MmEfx"
+      },
+      "quarry": "2ZYtfSMywUGf54DTzGGfC7FW3pxNdV4414xX8mAK1i2R",
+      "replicaMint": "AFL9vRmv3BKpLrd6DzRmyRXVCyEn1ZZg8XqTnuFbbNkZ",
+      "replicaQuarries": [],
+      "slug": "mmefx",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "MmEfxcdasUj9eyUc2p7iMiUcHqhJb2ej92H7DtzAW6b"
+      }
+    },
+    {
+      "index": 9,
+      "isReplica": false,
+      "mergePool": "GNZbvT6YLCkFPSwTrgf26jHFeFVeZDUTEdaTgrHh5Jdt",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "MPoqbkC7p1k9iC7di53MzcGkrcnDfxadpCH1BpX5qno"
+      },
+      "primaryTokenInfo": {
+        "address": "MPoqbkC7p1k9iC7di53MzcGkrcnDfxadpCH1BpX5qno",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token MPoq",
+        "symbol": "MPoqb"
+      },
+      "quarry": "AAWC8NGBTwKVqT1qdbDAZCQfH6drqpvoQ67HTpFryzGd",
+      "replicaMint": "2yU3t2jFSpfb9RoLVA12koxKa6zTVGxEB5VgQFBaKYmj",
+      "replicaQuarries": [],
+      "slug": "mpoqb",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "MPoqbkC7p1k9iC7di53MzcGkrcnDfxadpCH1BpX5qno"
+      }
+    },
+    {
+      "index": 10,
+      "isReplica": false,
+      "mergePool": "9VffvsYDa3AMz5t53vdoU747DETwRF44fyAdSS6iLikB",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "MLacC4yXCiJ53Sjb2P6zNbuwUVCyrVSTrT8XrLATku4"
+      },
+      "primaryTokenInfo": {
+        "address": "MLacC4yXCiJ53Sjb2P6zNbuwUVCyrVSTrT8XrLATku4",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token MLac",
+        "symbol": "MLacC"
+      },
+      "quarry": "822ML16seA6DiAgQsSXyXCQZvkrkwyhQu5jNwkpYhJUC",
+      "replicaMint": "9yFGXrem6zCZNp5WHvNBxxejf53aLBCmB5ZRheoXFymy",
+      "replicaQuarries": [],
+      "slug": "mlacc",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "MLacC4yXCiJ53Sjb2P6zNbuwUVCyrVSTrT8XrLATku4"
+      }
+    },
+    {
+      "index": 11,
+      "isReplica": false,
+      "mergePool": "2T89JbNfhuv85NJbscXmMww5viP7NfzmaKi7v33WAPWF",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "mSLKQhDb8JVrDw3tNAitb78oehh7T94yLje9t2eRjwA"
+      },
+      "primaryTokenInfo": {
+        "address": "mSLKQhDb8JVrDw3tNAitb78oehh7T94yLje9t2eRjwA",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token mSLK",
+        "symbol": "mSLKQ"
+      },
+      "quarry": "2mLWuwAqit6b7uP1GxdguR2DFwh9iYeku11cdZumuA4p",
+      "replicaMint": "xNhaXPenDzc9wcahuEAPYi9DbJHUB43Z2tWY4ZhbPVb",
+      "replicaQuarries": [],
+      "slug": "mslkq",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "mSLKQhDb8JVrDw3tNAitb78oehh7T94yLje9t2eRjwA"
+      }
+    },
+    {
+      "index": 12,
+      "isReplica": false,
+      "mergePool": "FoTGQkNnKsnpSRPdArNVud4oxzViDixsqikZgoSKfZce",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "mAPMhenEGwcpnLWa6VwDPBUtRtgiin9EGkMQBEVJX2H"
+      },
+      "primaryTokenInfo": {
+        "address": "mAPMhenEGwcpnLWa6VwDPBUtRtgiin9EGkMQBEVJX2H",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token mAPM",
+        "symbol": "mAPMh"
+      },
+      "quarry": "H44Fp8CutsLvfTSeqcoTCK6gp3nnWgsWKkvdu5CVUUgh",
+      "replicaMint": "Ev57rfJe26PnQM3KAUK48McZgpL21pjqKnUpipneZTic",
+      "replicaQuarries": [],
+      "slug": "mapmh",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "mAPMhenEGwcpnLWa6VwDPBUtRtgiin9EGkMQBEVJX2H"
+      }
+    },
+    {
+      "index": 13,
+      "isReplica": false,
+      "mergePool": "5egNPBaxNTsao8CXzpnNc4iWcwX7tRbDGGiB11dy7kip",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "MsyodFJH75s9Etmcqg9zw9eeRGvAVhgteaCYqbKspDj"
+      },
+      "primaryTokenInfo": {
+        "address": "MsyodFJH75s9Etmcqg9zw9eeRGvAVhgteaCYqbKspDj",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token Msyo",
+        "symbol": "Msyod"
+      },
+      "quarry": "G7CEz14c6zuZC3osW6uJZMe8ZqiccdFgBKMtxcGbjF5M",
+      "replicaMint": "Hn3wG2FuEKiYLodLdUS3qLQMBjsVEaRcvT3enDAwvNad",
+      "replicaQuarries": [],
+      "slug": "msyod",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "MsyodFJH75s9Etmcqg9zw9eeRGvAVhgteaCYqbKspDj"
+      }
+    },
+    {
+      "index": 14,
+      "isReplica": false,
+      "mergePool": "8y7ZBBnetzgNEQTFxKHpEmvtRPiksqDc4sRnYku6GVdY",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "MCRZga1kn5QvvYcBQW4mqHTXZv2dgGsK5eN6wEzBd2K"
+      },
+      "primaryTokenInfo": {
+        "address": "MCRZga1kn5QvvYcBQW4mqHTXZv2dgGsK5eN6wEzBd2K",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token MCRZ",
+        "symbol": "MCRZg"
+      },
+      "quarry": "7JJaFMciUgkjn2oV1a8YC4T8DerpDC7eKyb5RmdePv9S",
+      "replicaMint": "8fKyBeNpi4XKuQn4sRLDKD3HXPTGnL7Zb84JuJMuHWNi",
+      "replicaQuarries": [],
+      "slug": "mcrzg",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "MCRZga1kn5QvvYcBQW4mqHTXZv2dgGsK5eN6wEzBd2K"
+      }
+    },
+    {
+      "index": 15,
+      "isReplica": false,
+      "mergePool": "F6SBgFbGp625mR1BFz9FkhXKcFWPeqdXMp6zaneqKk7c",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "moRivbCrVFUg4hT43D851Rg5hE4xx6rUMEDdykkrdES"
+      },
+      "primaryTokenInfo": {
+        "address": "moRivbCrVFUg4hT43D851Rg5hE4xx6rUMEDdykkrdES",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token moRi",
+        "symbol": "moRiv"
+      },
+      "quarry": "7xKSKaAMvc7vGAtSwPoLYCe6hp4wWnSJE4Doq4CdKB8u",
+      "replicaMint": "5PiQdrgPpNJNHAt3BQikbMChWXdKiKE1VoFweG7vbo2z",
+      "replicaQuarries": [],
+      "slug": "moriv",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "moRivbCrVFUg4hT43D851Rg5hE4xx6rUMEDdykkrdES"
+      }
+    },
+    {
+      "index": 16,
+      "isReplica": false,
+      "mergePool": "9ksPXxYAsRrWS4FS4vwunSNkdAzQ49HhDx7gL2A4w49v",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "MoRiMUBpgTD7SJdQ7hJ2zymu8wicpD5Qw4Nmp7HSrnA"
+      },
+      "primaryTokenInfo": {
+        "address": "MoRiMUBpgTD7SJdQ7hJ2zymu8wicpD5Qw4Nmp7HSrnA",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token MoRi",
+        "symbol": "MoRiM"
+      },
+      "quarry": "8fQVAVF4txPdAnwUzHjSVzhPpqZyu67zh5aDPrcNgisy",
+      "replicaMint": "4CJpZNNQ8prhYq9EH5wfmatdLT6ajANVfRr7P79wFvVo",
+      "replicaQuarries": [],
+      "slug": "morim",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "MoRiMUBpgTD7SJdQ7hJ2zymu8wicpD5Qw4Nmp7HSrnA"
+      }
+    },
+    {
+      "index": 17,
+      "isReplica": false,
+      "mergePool": "Mrk9UqzjJwtQ9ChADHUx4BCjemGv6EouymgSqjejE1j",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "MorqJh1BRKSbCq8T1FruhgXWfc2fEUn9Pe1z1BEitRD"
+      },
+      "primaryTokenInfo": {
+        "address": "MorqJh1BRKSbCq8T1FruhgXWfc2fEUn9Pe1z1BEitRD",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token Morq",
+        "symbol": "MorqJ"
+      },
+      "quarry": "5RK6mUGyEj3ABtfqXfDjonusq23WwLb19EoCQ2GEEmXz",
+      "replicaMint": "7crDWuLJkAgNpDQwxVm6Ng4jNT6amLLRxwzTREAvqY6e",
+      "replicaQuarries": [],
+      "slug": "morqj",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "MorqJh1BRKSbCq8T1FruhgXWfc2fEUn9Pe1z1BEitRD"
+      }
+    },
+    {
+      "index": 18,
+      "isReplica": false,
+      "mergePool": "FynSpKr5G6QNXwAubN4rPaKTLkgXamcdDM167nGU3FP2",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "MorVRTAC3RnaUd8dMBSb87iW8ijGqxKN97Sr7qQ2VPZ"
+      },
+      "primaryTokenInfo": {
+        "address": "MorVRTAC3RnaUd8dMBSb87iW8ijGqxKN97Sr7qQ2VPZ",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token MorV",
+        "symbol": "MorVR"
+      },
+      "quarry": "3PGp3Ez3Yh3x2esPsMchFJRoqsAvhoPhbvALDBy9eywG",
+      "replicaMint": "BVUqSu54GD2DnHTS7M1LcEAFQckXv3CHN1twEwMuktSE",
+      "replicaQuarries": [],
+      "slug": "morvr",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "MorVRTAC3RnaUd8dMBSb87iW8ijGqxKN97Sr7qQ2VPZ"
+      }
+    },
+    {
+      "index": 19,
+      "isReplica": false,
+      "mergePool": "CHkX5vP543ms96MzbimvHTbx76J2tRiXfpU1om4KJxHA",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "morFDB3StUG6vPanJGGJS4Y1TDrxELsys1T1hXu259Z"
+      },
+      "primaryTokenInfo": {
+        "address": "morFDB3StUG6vPanJGGJS4Y1TDrxELsys1T1hXu259Z",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token morF",
+        "symbol": "morFD"
+      },
+      "quarry": "BRs5STyqG9kcD8S7PMuLiHS7KndCgCC5TST4G4ANJqM7",
+      "replicaMint": "DEPHEMs2S9gGeRW3Qm5ZSr2NHcVSzWDVJh5fnDzE8Bxo",
+      "replicaQuarries": [],
+      "slug": "morfd",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "morFDB3StUG6vPanJGGJS4Y1TDrxELsys1T1hXu259Z"
+      }
+    },
+    {
+      "index": 20,
+      "isReplica": false,
+      "mergePool": "5pg6r6ynWZaBZG8ccjuCxwBLDJ4vvJg1fGW663Whupvs",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "MaRzduEiTEsNpiNeXPynkHxpnXc3CeR98D57P8L13vG"
+      },
+      "primaryTokenInfo": {
+        "address": "MaRzduEiTEsNpiNeXPynkHxpnXc3CeR98D57P8L13vG",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token MaRz",
+        "symbol": "MaRzd"
+      },
+      "quarry": "CtcM7BGCqccq1Uxjme8Pff7HYX4Qt2e4CSy4UFZa1DHF",
+      "replicaMint": "BA6Bmqh3gCy98swfXafCeVd6zqS9iZfJHwE1HYsXtpXE",
+      "replicaQuarries": [],
+      "slug": "marzd",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "MaRzduEiTEsNpiNeXPynkHxpnXc3CeR98D57P8L13vG"
+      }
+    },
+    {
+      "index": 21,
+      "isReplica": false,
+      "mergePool": "9QaRZd3VtPXQ3bCDBgsSBJ3URMd52xvGhKMj8k2jWSku",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "mALTDqynw8piW29s5p488BPWRn2zacoWYhCUZLzSSTF"
+      },
+      "primaryTokenInfo": {
+        "address": "mALTDqynw8piW29s5p488BPWRn2zacoWYhCUZLzSSTF",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token mALT",
+        "symbol": "mALTD"
+      },
+      "quarry": "Di7jfigmF1XMkD8T5JZjnH1b4d7xhLQHPtCGuFBLyBia",
+      "replicaMint": "9ivQTKozbrAywok5mzXUK7DCWgG55uspENB9ia7WPKif",
+      "replicaQuarries": [],
+      "slug": "maltd",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "mALTDqynw8piW29s5p488BPWRn2zacoWYhCUZLzSSTF"
+      }
+    },
+    {
+      "index": 22,
+      "isReplica": false,
+      "mergePool": "9Bik23axUo9b7LYBkQrbDsmcPcShA7iUe3YM9ZQfbzTE",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 9,
+        "mint": "BKq1HN9expTKLvjkpnvcbHvsHukTUecdHyUZF7H2p2jr"
+      },
+      "primaryTokenInfo": {
+        "address": "BKq1HN9expTKLvjkpnvcbHvsHukTUecdHyUZF7H2p2jr",
+        "chainId": 101,
+        "decimals": 9,
+        "extensions": {
+          "source": "lifinity",
+          "underlyingTokens": [
+            "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+            "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+          ],
+          "website": "https://lifinity.io/"
+        },
+        "logoURI": "https://raw.githubusercontent.com/marinade-finance/marinade-token-list/main/assets/lifinity.png",
+        "name": "Lifinity mSOL-USDC",
+        "symbol": "mSOL-USDC LP",
+        "tags": [
+          "lifinity-lp"
+        ]
+      },
+      "quarry": "9dPDFoWVgPJ28MfxWpWFmfch6kqxUhFSc65pBcUjdX1v",
+      "replicaMint": "5YN7rbCFgFD7BP2xfrZfFq8QJBfvsAq87N8x7V6YqFpV",
+      "replicaQuarries": [],
+      "slug": "msol-usdc lp",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "BKq1HN9expTKLvjkpnvcbHvsHukTUecdHyUZF7H2p2jr"
+      }
+    },
+    {
+      "index": 23,
+      "isReplica": false,
+      "mergePool": "CMYkdgPozrG2QaE4UCMqSCfmMVpHeWzsu1M556pUCC8v",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "MhUHtJ7kfrzGkK8UDUz6GgYHKUaqqcTPHsJv5RZ8Pmt"
+      },
+      "primaryTokenInfo": {
+        "address": "MhUHtJ7kfrzGkK8UDUz6GgYHKUaqqcTPHsJv5RZ8Pmt",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token MhUH",
+        "symbol": "MhUHt"
+      },
+      "quarry": "7JGA8JZ4hMRhB1vfZw3RfpvVyutqfA9fdzDeXAfvWWBn",
+      "replicaMint": "FvAbsZrmBFdrKXuyEZ2J8XvhmamVhpT15P9ejMWwypyX",
+      "replicaQuarries": [],
+      "slug": "mhuht",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "MhUHtJ7kfrzGkK8UDUz6GgYHKUaqqcTPHsJv5RZ8Pmt"
+      }
+    },
+    {
+      "index": 24,
+      "isReplica": false,
+      "mergePool": "6MzCyUNPGzF3hmnxZtzNw5Tw1FMbeZ9cKLxzXh862U5K",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "MorHuCj2DZKdV2psHV1M2ezTx9mVBLTEshSQZRvvvXg"
+      },
+      "primaryTokenInfo": {
+        "address": "MorHuCj2DZKdV2psHV1M2ezTx9mVBLTEshSQZRvvvXg",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token MorH",
+        "symbol": "MorHu"
+      },
+      "quarry": "Cv5hgvbGuqzz4qgUNezsiPeKF1Gjk7Z8TvpLJhnP2KBJ",
+      "replicaMint": "GXQTgm5JVLjYm9jDRHG7CbC3zGa5W5FRyD2m9Q4pREne",
+      "replicaQuarries": [],
+      "slug": "morhu",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "MorHuCj2DZKdV2psHV1M2ezTx9mVBLTEshSQZRvvvXg"
+      }
+    },
+    {
+      "index": 25,
+      "isReplica": false,
+      "mergePool": "CYAo61YqJYy4p1spmYbaFeAUM7E4LED9hvSJqwtxz4tB",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "bck2Fho2GiXxxumMzbQ4qjdPrgATSV2iecm8rXjRkny"
+      },
+      "primaryTokenInfo": {
+        "address": "bck2Fho2GiXxxumMzbQ4qjdPrgATSV2iecm8rXjRkny",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token bck2",
+        "symbol": "bck2F"
+      },
+      "quarry": "C3on8hLYamJA6GtS5NMw5Z8iseAHfNCvPhHwqQvbDjPe",
+      "replicaMint": "Aw1CRQRX41DBDPuX6AAngzZew1WKRerDow1HsdcRA9z6",
+      "replicaQuarries": [],
+      "slug": "bck2f",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "bck2Fho2GiXxxumMzbQ4qjdPrgATSV2iecm8rXjRkny"
+      }
+    },
+    {
+      "index": 26,
+      "isReplica": false,
+      "mergePool": "2m8dJoGWGMdEUbvRPGyrhsjhSmHRaKhiqZzDhE47F47T",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "ra2JjsMnVMQMaJYhbfwyA2pZjUDrtXoaLfmGRYgFyed"
+      },
+      "primaryTokenInfo": {
+        "address": "ra2JjsMnVMQMaJYhbfwyA2pZjUDrtXoaLfmGRYgFyed",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token ra2J",
+        "symbol": "ra2Jj"
+      },
+      "quarry": "9gCByQXBkstp9ZsFv7cQ8gYnv2Ru9tDy5xSdMfHK1R9C",
+      "replicaMint": "79XP9E83AijXUJqivDtzXeNxoMBw4PdWUd5ANBFuZCJ",
+      "replicaQuarries": [],
+      "slug": "ra2jj",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "ra2JjsMnVMQMaJYhbfwyA2pZjUDrtXoaLfmGRYgFyed"
+      }
+    },
+    {
+      "index": 27,
+      "isReplica": false,
+      "mergePool": "2TAUcsdYDDGwSrm82nDt6WDw2YyaxzQRK3fdG6whAFTe",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "mrgnPTQ9RErqx4VqJ9BUkMwKvkprEAqFAjzuhg8KnS8"
+      },
+      "primaryTokenInfo": {
+        "address": "mrgnPTQ9RErqx4VqJ9BUkMwKvkprEAqFAjzuhg8KnS8",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token mrgn",
+        "symbol": "mrgnP"
+      },
+      "quarry": "DxNxnS9RzGCw4XVLqPJZmqCA7wTzBjamN1aN3x7SoG5e",
+      "replicaMint": "HhpUms1S65U4VFCVyBJM7HDFd6qZquHRxWkwtbTTGdBN",
+      "replicaQuarries": [],
+      "slug": "mrgnp",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "mrgnPTQ9RErqx4VqJ9BUkMwKvkprEAqFAjzuhg8KnS8"
+      }
+    },
+    {
+      "index": 28,
+      "isReplica": false,
+      "mergePool": "F1wQDQbYrxXKfrvpvkQshK8TwuZk8dqWyo1AQ6vtbPad",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 0,
+        "mint": "pnxHdPybchcHQs3J7sWQobBPpcioCuxLAy121M9mZqC"
+      },
+      "primaryTokenInfo": {
+        "address": "pnxHdPybchcHQs3J7sWQobBPpcioCuxLAy121M9mZqC",
+        "chainId": 101,
+        "decimals": 0,
+        "name": "Token pnxH",
+        "symbol": "pnxHd"
+      },
+      "quarry": "BhdfmZSbLcRTZEezwaL1qRd7w8C5sfynR5ynWxNL4wM8",
+      "replicaMint": "66Sbsxq5V2YuX13vGzLeMrha7tgAVhcrpraysvGAkmPC",
+      "replicaQuarries": [],
+      "slug": "pnxhd",
+      "stakedToken": {
+        "decimals": 0,
+        "mint": "pnxHdPybchcHQs3J7sWQobBPpcioCuxLAy121M9mZqC"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 9,
+    "mint": "CNxb8WdKv55ep89YgFx6s384xLbEvnWTPgMaf8yisG3j"
+  },
+  "rewardsTokenInfo": {
+    "address": "CNxb8WdKv55ep89YgFx6s384xLbEvnWTPgMaf8yisG3j",
+    "chainId": 101,
+    "decimals": 9,
+    "extensions": {
+      "coingeckoId": "marinade",
+      "discord": "https://discord.gg/mGqZA5pjRN",
+      "github": "https://github.com/marinade-finance",
+      "medium": "https://medium.com/marinade-finance",
+      "source": "quarry-iou",
+      "twitter": "https://twitter.com/MarinadeFinance",
+      "underlyingTokens": [
+        "MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey"
+      ],
+      "website": "https://marinade.finance"
+    },
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/MNDEFzGvMt87ueuHvVU9VcTqsAP5b3fTGPsHuuPA5ey/logo.png",
+    "name": "Marinade (IOU)",
+    "symbol": "iouMNDE",
+    "tags": [
+      "quarry-iou"
+    ]
+  },
+  "slug": "marinade"
+}

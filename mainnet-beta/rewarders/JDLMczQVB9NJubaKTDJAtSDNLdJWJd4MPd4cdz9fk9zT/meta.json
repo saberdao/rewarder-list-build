@@ -1,0 +1,35 @@
+{
+  "authority": "7bz4h6T4p39ozCnz7vpDmmiFNssyV1d1Hu3TKcDXmSXu",
+  "mintWrapper": "5UuKhFN2jho5xiVSf6JsxRzbVXskZqFY138RHHcW11oy",
+  "quarries": [
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 0,
+        "lastUpdateTs": "1661734682",
+        "numMiners": "1",
+        "rewardsPerTokenStored": "6013345701166707698868",
+        "rewardsShare": "10000000",
+        "totalTokensDeposited": "0"
+      },
+      "index": 0,
+      "quarry": "9Bm4iZrJ8fuvzFMN9Jwggecb63xLfgncXSGNShAYmnXK",
+      "slug": "2wofa",
+      "stakedToken": {
+        "decimals": 2,
+        "mint": "2woFA66NF37H3NFAiDY6yojqyxgtqWCcfkxsZbnSr7Fa"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "FT4JH19wq1WMk9a2nPRGihn8WGP8R4iaYMaDVqgqtoMK"
+  },
+  "rewardsTokenInfo": {
+    "address": "FT4JH19wq1WMk9a2nPRGihn8WGP8R4iaYMaDVqgqtoMK",
+    "chainId": 101,
+    "decimals": 6,
+    "name": "Token FT4J",
+    "symbol": "FT4JH"
+  }
+}
