@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2025-07-28T08:25:17.794Z",
+  "timestamp": "2025-07-29T08:23:13.678Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -1643,6 +1643,22 @@
       "symbol": "sun-daoSOL-SOL",
       "tags": [
         "saber-stableswap-lp"
+      ]
+    },
+    {
+      "address": "77DcCPqLnnxkF3iSNRC6XdrdYeqjw35CiWRLgeuBDpLR",
+      "chainId": 101,
+      "decimals": 9,
+      "extensions": {
+        "source": "quarry-merge-mine-replica",
+        "underlyingTokens": [
+          "VotexPJHHEZ4pxKzyymM97PG1RAzk9yV35EMX3739VR"
+        ]
+      },
+      "name": "Token Vote (Replica)",
+      "symbol": "qrVotex",
+      "tags": [
+        "quarry-merge-mine-replica"
       ]
     },
     {
@@ -10210,6 +10226,13 @@
       "tags": [
         "saber-stableswap-lp"
       ]
+    },
+    {
+      "address": "VotexPJHHEZ4pxKzyymM97PG1RAzk9yV35EMX3739VR",
+      "chainId": 101,
+      "decimals": 9,
+      "name": "Token Vote",
+      "symbol": "Votex"
     },
     {
       "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
