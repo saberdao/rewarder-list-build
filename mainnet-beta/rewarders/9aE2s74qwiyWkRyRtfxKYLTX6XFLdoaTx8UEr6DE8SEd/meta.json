@@ -24,11 +24,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 1,
-        "lastUpdateTs": "1753667459",
+        "lastUpdateTs": "1753780988",
         "numMiners": "414",
         "rewardsPerTokenStored": "1319603910834129210257",
         "rewardsShare": "476190",
-        "totalTokensDeposited": "355407419079"
+        "totalTokensDeposited": "348763997020"
       },
       "index": 1,
       "quarry": "56jUntrxMLEZ4d82GPvKkWr28CuaBQsFwWxzQEMoaWck",
@@ -42,11 +42,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 2,
-        "lastUpdateTs": "1753762908",
+        "lastUpdateTs": "1753845386",
         "numMiners": "6857",
         "rewardsPerTokenStored": "375604510384231519937",
         "rewardsShare": "476190",
-        "totalTokensDeposited": "6426270211562"
+        "totalTokensDeposited": "6391152352301"
       },
       "index": 2,
       "quarry": "3nH3FHZZTcjSfVf2efB4CQqnN7HJfgn3HaYMKSRiGRTM",
@@ -78,11 +78,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 4,
-        "lastUpdateTs": "1753459145",
+        "lastUpdateTs": "1753793660",
         "numMiners": "22",
         "rewardsPerTokenStored": "101571734327298797126",
         "rewardsShare": "0",
-        "totalTokensDeposited": "413110229"
+        "totalTokensDeposited": "319822479"
       },
       "index": 4,
       "quarry": "EkyQJrSAepqKMwZj7juUdaCFszHD5kiy3AT7S9fLMpwE",
@@ -114,11 +114,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 6,
-        "lastUpdateTs": "1753694434",
+        "lastUpdateTs": "1753793645",
         "numMiners": "29",
         "rewardsPerTokenStored": "145426087877903296522162",
         "rewardsShare": "0",
-        "totalTokensDeposited": "76958259017"
+        "totalTokensDeposited": "76864971267"
       },
       "index": 6,
       "quarry": "FizfpdoMDEzCmbwP5WwNvwKwrFDTPgnwsEeEn6W1FQgg",
@@ -150,7 +150,7 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 8,
-        "lastUpdateTs": "1753612498",
+        "lastUpdateTs": "1753841570",
         "numMiners": "29",
         "rewardsPerTokenStored": "11456652150187683490645",
         "rewardsShare": "47619",
