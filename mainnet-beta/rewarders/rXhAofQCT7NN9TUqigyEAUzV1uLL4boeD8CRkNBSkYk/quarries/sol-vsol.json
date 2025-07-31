@@ -31,6 +31,16 @@
     "replicaMint": "CDg82SVPf5FL2gy3RNkRzzsYjmrJoW7LzhqHL31rjB32",
     "replicaQuarries": [
       {
+        "displayRewardsToken": null,
+        "quarry": "7u5j1N7wj6TxBNYSd9pmtsfmQREogWGw7DZGDo85Cvk7",
+        "rewarder": "3S8DzRzT44GcSrNa6ywWgnh68REgQ4gvMNDBrqcudzVj",
+        "rewardsToken": {
+          "decimals": 6,
+          "mint": "vpts1ZZfiVonBNJndkdfBiKysJxhYfEGKjBrFcZpZuL"
+        },
+        "slug": "qrvlpa8"
+      },
+      {
         "displayRewardsToken": {
           "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
           "chainId": 101,

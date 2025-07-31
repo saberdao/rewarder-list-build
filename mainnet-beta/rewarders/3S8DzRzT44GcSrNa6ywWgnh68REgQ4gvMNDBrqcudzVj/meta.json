@@ -1,0 +1,64 @@
+{
+  "authority": "3m3uLTYCkZV2xUajbk98gYtR711TxBYAELoS7Tskxw73",
+  "mintWrapper": "JDjULnRt4zhYowseWGDA4ohSmbwzej9sFEJ9traTwejQ",
+  "quarries": [
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 0,
+        "lastUpdateTs": "0",
+        "numMiners": "0",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "0"
+      },
+      "index": 0,
+      "quarry": "62Jp1Wg6RcgEhtuagEv9PXFpK69MtXED2f8BPRthPodV",
+      "slug": "vsol",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "vSoLxydx6akxyMD9XEcPvGYNGq6Nn66oqVb3UkGkei7"
+      }
+    },
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 1,
+        "lastUpdateTs": "0",
+        "numMiners": "0",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "0"
+      },
+      "index": 1,
+      "quarry": "7u5j1N7wj6TxBNYSd9pmtsfmQREogWGw7DZGDo85Cvk7",
+      "slug": "qrvlpa8",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "CDg82SVPf5FL2gy3RNkRzzsYjmrJoW7LzhqHL31rjB32"
+      }
+    },
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 2,
+        "lastUpdateTs": "0",
+        "numMiners": "0",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "0"
+      },
+      "index": 2,
+      "quarry": "9xKP5ZYkA7M5BuaUqsrgsSmGfv9Au3dKAjMsjCaaCJHC",
+      "slug": "2",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "EUWoTx5vQQrxaDFdeK2PLUVbnmRWjw4x6sBbmcxBaHjF"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 6,
+    "mint": "vpts1ZZfiVonBNJndkdfBiKysJxhYfEGKjBrFcZpZuL"
+  }
+}

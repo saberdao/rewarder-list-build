@@ -54,7 +54,7 @@
         "saber-stableswap-lp"
       ]
     },
-    "quarry": "56jUntrxMLEZ4d82GPvKkWr28CuaBQsFwWxzQEMoaWck",
+    "quarry": "7u5j1N7wj6TxBNYSd9pmtsfmQREogWGw7DZGDo85Cvk7",
     "replicaMint": "CDg82SVPf5FL2gy3RNkRzzsYjmrJoW7LzhqHL31rjB32",
     "replicaQuarries": [
       {
@@ -107,38 +107,14 @@
     }
   },
   "rewarder": {
-    "authority": "AVD4fs2EYV527UhHE3YDd7y3YfY9CXfREUS73yCWFENZ",
-    "info": {
-      "address": "9aE2s74qwiyWkRyRtfxKYLTX6XFLdoaTx8UEr6DE8SEd",
-      "color": "#ffad03",
-      "description": "Solana stake pool for creating and supporting up-and-coming validators",
-      "id": "vault",
-      "name": "The Vault",
-      "networks": [
-        "mainnet-beta"
-      ],
-      "website": "https://thevault.finance"
-    },
-    "mintWrapper": "4Kf7FLWtEPPPcUpizxK82QYNoLSPd2fQTiVLSBx5oKqz",
+    "authority": "3m3uLTYCkZV2xUajbk98gYtR711TxBYAELoS7Tskxw73",
+    "mintWrapper": "JDjULnRt4zhYowseWGDA4ohSmbwzej9sFEJ9traTwejQ",
     "rewardsToken": {
       "decimals": 6,
-      "mint": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b"
+      "mint": "vpts1ZZfiVonBNJndkdfBiKysJxhYfEGKjBrFcZpZuL"
     },
-    "rewardsTokenInfo": {
-      "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
-      "chainId": 101,
-      "decimals": 6,
-      "name": "Token vPtS",
-      "symbol": "vPtS4"
-    },
-    "slug": "vault"
-  },
-  "rewardsToken": {
-    "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
-    "chainId": 101,
-    "decimals": 6,
-    "name": "Token vPtS",
-    "symbol": "vPtS4"
+    "rewardsTokenInfo": null,
+    "slug": "3S8DzRzT44GcSrNa6ywWgnh68REgQ4gvMNDBrqcudzVj"
   },
   "stakedToken": {
     "address": "CDg82SVPf5FL2gy3RNkRzzsYjmrJoW7LzhqHL31rjB32",
