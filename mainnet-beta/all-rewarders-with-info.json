@@ -3838,6 +3838,56 @@
     },
     "slug": "7vSB4xtsxkARCtuRdTQVZnXwwNUga1R6Qf7b67u4vqg2"
   },
+  "7yrgTbzEyFMWZy5sB7iZy16qvXF23ntmJ4wgGNdyGSUN": {
+    "authority": "5VAZRpDaWk6KSFg358VmzDXjbhmRgv8hcyoJzre1oFPj",
+    "mintWrapper": "CPzh6FHZ6BMCzvxignQr4qCCUXB1Nnw5ypbHDyds69rT",
+    "quarries": [
+      {
+        "index": 0,
+        "isReplica": false,
+        "mergePool": "3gsDR8kWwYN4GGunaMsVnHeHTNFdMXQarEspARY1gwzt",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 8,
+          "mint": "7v6Vu5yXQA4xcySk4SMy8WcRhE4pP4BAEbU5FVUhW1Kj"
+        },
+        "primaryTokenInfo": null,
+        "quarry": "2Lyw8aoprkQj6irvrGwE7V9UGAC53MivUdPVPwmy429m",
+        "replicaMint": "BsWQVZtAwoHVZiDd2CReZMyWu87ae9SaSJ5sTbPa36pJ",
+        "replicaQuarries": [],
+        "slug": "0",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "7v6Vu5yXQA4xcySk4SMy8WcRhE4pP4BAEbU5FVUhW1Kj"
+        }
+      },
+      {
+        "index": 1,
+        "isReplica": false,
+        "mergePool": "3YYn1pY7nXUJMCSBFBWswDkDAHJGKXsCyJP2nhit3kL6",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 8,
+          "mint": "7BSPdM6PaoJEwK7xYGwcyNUBtwecNMGieyHYNG4UwBjS"
+        },
+        "primaryTokenInfo": null,
+        "quarry": "9eBe1uqcdRMM3Lgp11bxEhxU9Vz215KBFMNYde94RWBw",
+        "replicaMint": "5n5YQYWFd52Xw5y4o2gGPW7dVvWzXWSoV1nwAjJFu3BH",
+        "replicaQuarries": [],
+        "slug": "1",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "7BSPdM6PaoJEwK7xYGwcyNUBtwecNMGieyHYNG4UwBjS"
+        }
+      }
+    ],
+    "rewardsToken": {
+      "decimals": 6,
+      "mint": "6UR4n65sYq5z4y9r4RSKjsfsaJvzt6ufe74TWvdNeErW"
+    },
+    "rewardsTokenInfo": null,
+    "slug": "7yrgTbzEyFMWZy5sB7iZy16qvXF23ntmJ4wgGNdyGSUN"
+  },
   "8Rd6oUFAUeQtQ7nsRTmXNvR3taZKxPgth261AGHZytK4": {
     "authority": "2sCeTDhX6KzLtLCYx1GanERCaxW2rZ3Kx5DGoicZayrG",
     "mintWrapper": "B9kYv1w1xS7UDR5M1BG5Q2NY5rvKpXopnipSDVgNdB3b",
