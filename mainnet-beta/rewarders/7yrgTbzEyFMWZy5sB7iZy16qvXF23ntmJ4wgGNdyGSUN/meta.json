@@ -37,6 +37,42 @@
         "decimals": 8,
         "mint": "7BSPdM6PaoJEwK7xYGwcyNUBtwecNMGieyHYNG4UwBjS"
       }
+    },
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 2,
+        "lastUpdateTs": "1755764692",
+        "numMiners": "0",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "0"
+      },
+      "index": 2,
+      "quarry": "HuRVhEZ3zy418nhwuJ3fsQjxr6vf7ifxX8D7oJr2GMnB",
+      "slug": "usdc",
+      "stakedToken": {
+        "decimals": 6,
+        "mint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+      }
+    },
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 3,
+        "lastUpdateTs": "0",
+        "numMiners": "0",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "0"
+      },
+      "index": 3,
+      "quarry": "APyNbQp622j17tqbKRxyzVPk2RuJm5W9LpuDMVTyMNnA",
+      "slug": "3",
+      "stakedToken": {
+        "decimals": 8,
+        "mint": "4tiCLd68DBW8GT33qua1irn5p8fsfeCnFbAbY3CwYC3z"
+      }
     }
   ],
   "rewardsToken": {

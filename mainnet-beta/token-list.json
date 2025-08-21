@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2025-08-21T08:21:02.978Z",
+  "timestamp": "2025-08-21T09:11:18.208Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -1020,6 +1020,13 @@
         "utility-token",
         "aggregator"
       ]
+    },
+    {
+      "address": "4tiCLd68DBW8GT33qua1irn5p8fsfeCnFbAbY3CwYC3z",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token 4tiC",
+      "symbol": "4tiCL"
     },
     {
       "address": "4uYrnduX2unMEG9LLbE4swqHmmXHKhc7DugTbLTK8hLE",
