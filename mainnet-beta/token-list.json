@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2025-08-21T09:42:36.901Z",
+  "timestamp": "2025-08-21T09:52:48.894Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -928,6 +928,13 @@
         "saber-stableswap-lp",
         "saber-lp-allbridge"
       ]
+    },
+    {
+      "address": "4hsm5hjp9fxGpo39XMpsmhWPN3yDzkYoqy2ZvQ3jQo85",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token 4hsm",
+      "symbol": "4hsm5"
     },
     {
       "address": "4jgPmzLanatrYxLSXAh7JBjBbFGyviLe6yBkNPFcFpig",
