@@ -224,6 +224,34 @@
       "mint": "CyzrCNQ6hcwZVywbJx6XXHCe56U3cTAtfXRNxWtdDR6P"
     }
   },
+  "3UE9zrhfwQBiM4n2yad3zYF3vDULdMWezRr8MBtJu7j4": {
+    "authority": "DQP4cuy1EbX1QZwAMj72W5Czd9koCfk5YXUrSQEd6dK8",
+    "mintWrapper": "HvY81TK1ESa1D6bPHkNfFkWR2XrYwaRkwe7xMtwyZ4DL",
+    "quarries": [
+      {
+        "index": 0,
+        "quarry": "ABGmiy1tKUs5DewS3xVmb9x6UB5fiCgErYndpRuAkSJ1",
+        "slug": "0",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "2qo9ENba9xo34v8BmngAf81MvTXDB2WJ28pkjMyRFD55"
+        }
+      },
+      {
+        "index": 1,
+        "quarry": "ENZcHPZ7nJTAhkXJskWRXqKRvQdVP9WyfEHxmaZf6zxA",
+        "slug": "1",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "EuFaBxFZgMbudozjRqr8WtTdJ4ZEG6pSM4WRkwGci3AX"
+        }
+      }
+    ],
+    "rewardsToken": {
+      "decimals": 6,
+      "mint": "3cDRtoxDzbeHM63bunnbC6HehUo5R6KT69dSEHzzGrn6"
+    }
+  },
   "3UqiNcE1S2MoQ1M1PvrQf3gCkM7KB1nWfZdoQckobHpz": {
     "authority": "GVQzKmFPJDrJT1pBYiT7KhfhMqvmU6yQ6SAhQKR7roaj",
     "mintWrapper": "8eKftWfkg5bY6XPHk3NdW7YYoFtGt5yeYr3weLyeTVDa",
@@ -1086,6 +1114,42 @@
         "stakedToken": {
           "decimals": 8,
           "mint": "4hsm5hjp9fxGpo39XMpsmhWPN3yDzkYoqy2ZvQ3jQo85"
+        }
+      },
+      {
+        "index": 7,
+        "quarry": "5SrCPi8caBWpzRpUkpEvfLqAaytgQ1KqukSADvss5WZJ",
+        "slug": "7",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "3q3V2xwVM9rAKU4ft1hseX5BbCesEfBEG7f2ccdirFV8"
+        }
+      },
+      {
+        "index": 8,
+        "quarry": "FpSxqbJepb4tnvpC8szdsuPDszXpSfqYhGwpR4iRtm2N",
+        "slug": "8",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "449HGCdSZGSXmsvSTgcrBr12Bq6B15CiTUBpehDLr7nj"
+        }
+      },
+      {
+        "index": 9,
+        "quarry": "3XB99eDFt6rzbmFTf5icMw6EDtfMDRh5ND2BWXGDxUZF",
+        "slug": "9",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "CA1CZkG8qomwauKcYYJKuC77sg6kWkRyNh46AzG7Tebi"
+        }
+      },
+      {
+        "index": 10,
+        "quarry": "7696ZCp2Pxq15x4H5pk9SA2VtF923zNePsgBkdoZHZGF",
+        "slug": "10",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "7nS2X797czDx3PCL243KmcMyAE57p92obsC9hpJDdHBE"
         }
       }
     ],
