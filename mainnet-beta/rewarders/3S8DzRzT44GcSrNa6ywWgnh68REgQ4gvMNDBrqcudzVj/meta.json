@@ -24,11 +24,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 1,
-        "lastUpdateTs": "1756361878",
+        "lastUpdateTs": "1756371011",
         "numMiners": "1",
         "rewardsPerTokenStored": "0",
         "rewardsShare": "0",
-        "totalTokensDeposited": "2049450916"
+        "totalTokensDeposited": "0"
       },
       "index": 1,
       "quarry": "7u5j1N7wj6TxBNYSd9pmtsfmQREogWGw7DZGDo85Cvk7",
@@ -42,11 +42,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 2,
-        "lastUpdateTs": "1756367996",
-        "numMiners": "49",
-        "rewardsPerTokenStored": "2142715098815853036576",
+        "lastUpdateTs": "1756429372",
+        "numMiners": "50",
+        "rewardsPerTokenStored": "2143628251511332149190",
         "rewardsShare": "1",
-        "totalTokensDeposited": "4098055304974"
+        "totalTokensDeposited": "4105602092800"
       },
       "index": 2,
       "quarry": "9xKP5ZYkA7M5BuaUqsrgsSmGfv9Au3dKAjMsjCaaCJHC",
