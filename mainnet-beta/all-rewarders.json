@@ -1802,6 +1802,15 @@
           "decimals": 8,
           "mint": "5YzLfpgk2J8K2zT9uNdYjrbVkaDXEcmXGZME6C4ZznUe"
         }
+      },
+      {
+        "index": 175,
+        "quarry": "HkpjMjjzoHPuSEnwEEa4aveL1WFjLq357XTAHEZu6w7Y",
+        "slug": "175",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "6Ai9kNoefCBP3pLritAHQiStN2d5w69UsGvnBGtsYRn9"
+        }
       }
     ],
     "rewardsToken": {
