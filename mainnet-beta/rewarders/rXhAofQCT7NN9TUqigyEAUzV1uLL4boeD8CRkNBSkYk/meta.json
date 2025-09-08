@@ -1986,11 +1986,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 110,
-        "lastUpdateTs": "1757224726",
-        "numMiners": "405",
-        "rewardsPerTokenStored": "441164698144945448273",
+        "lastUpdateTs": "1757273023",
+        "numMiners": "406",
+        "rewardsPerTokenStored": "441511721159854650864",
         "rewardsShare": "588156644118841",
-        "totalTokensDeposited": "404904801582"
+        "totalTokensDeposited": "445050801582"
       },
       "index": 110,
       "quarry": "82F6LccTs6gHZmziytaT4AX6yLBNjaxtfadJAoap3TwK",
