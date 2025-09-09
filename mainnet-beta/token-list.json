@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2025-09-09T08:38:57.982Z",
+  "timestamp": "2025-09-09T10:54:56.709Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -321,6 +321,13 @@
       "decimals": 6,
       "name": "Token 2L46",
       "symbol": "2L468"
+    },
+    {
+      "address": "2LmJRvnKVT7uvrSdMKr6dFALHGUDZSL9LZrrMhB7HxGZ",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token 2LmJ",
+      "symbol": "2LmJR"
     },
     {
       "address": "2maHUwkrfGseDDkGEQyGJ8Q8sBpHNkU77baNTW5qNDxo",
@@ -1778,6 +1785,13 @@
       "symbol": "6fTLL"
     },
     {
+      "address": "6hctgwCaohZRJvMNsNkFCmxxWGGf8CHAbDqCnShMhEks",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token 6hct",
+      "symbol": "6hctg"
+    },
+    {
       "address": "6HRsTKWeBDu7RPGr7nLT5r6ncSiVXE4ehP88jPxMsWxu",
       "chainId": 101,
       "decimals": 9,
@@ -1881,6 +1895,13 @@
       "tags": [
         "saber-mkt-luna"
       ]
+    },
+    {
+      "address": "6MJrgxJN1JzYvpfjYe8iZBnjwoVSgyhG2o2nKTwLDc9y",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token 6MJr",
+      "symbol": "6MJrg"
     },
     {
       "address": "6nuaX3ogrr2CaoAPjtaKHAoBNWok32BMcRozuf32s2QF",
@@ -2612,6 +2633,13 @@
       "tags": [
         "saber-mkt-eth"
       ]
+    },
+    {
+      "address": "8CcGPS6trqZcqTVE2Mr84rq1ewS3M45xTNJEzeUKXhQP",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token 8CcG",
+      "symbol": "8CcGP"
     },
     {
       "address": "8dtyxk8cJ9eNVqKTi49GMJBsJi3Z1jvcUASpWv2YybHW",
@@ -8340,6 +8368,13 @@
         "saber-stableswap-lp",
         "saber-lp-allbridge"
       ]
+    },
+    {
+      "address": "GfTo3PKK1n7XyFpx1FCrQ8u9k7rkA1MUPVpwTbd24bjq",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token GfTo",
+      "symbol": "GfTo3"
     },
     {
       "address": "GfzU1fLASNV3r4NtEyrnwTyTakJkYzoivnaL3Snh45oj",
