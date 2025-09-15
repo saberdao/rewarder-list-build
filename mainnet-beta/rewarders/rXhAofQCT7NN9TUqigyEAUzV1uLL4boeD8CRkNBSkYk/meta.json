@@ -492,11 +492,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 27,
-        "lastUpdateTs": "1757592673",
+        "lastUpdateTs": "1757841476",
         "numMiners": "777",
-        "rewardsPerTokenStored": "2824630970806189768001",
+        "rewardsPerTokenStored": "2827811103403255829682",
         "rewardsShare": "85045653921782",
-        "totalTokensDeposited": "33241474839"
+        "totalTokensDeposited": "28651758966"
       },
       "index": 27,
       "quarry": "7q5jvR4C6hFrC6tScyVKV4wE8km9koX537bud5iyw8ma",
@@ -870,11 +870,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 48,
-        "lastUpdateTs": "1757592673",
+        "lastUpdateTs": "1757852660",
         "numMiners": "621",
-        "rewardsPerTokenStored": "5287874043609507087",
+        "rewardsPerTokenStored": "5287875092113688230",
         "rewardsShare": "93324530",
-        "totalTokensDeposited": "115614631264"
+        "totalTokensDeposited": "108893638483"
       },
       "index": 48,
       "quarry": "FdHVdkarMfbpPhiAhHtKK6PgH8ibN8SnGSqWhQkTyD2c",
@@ -2112,11 +2112,11 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 117,
-        "lastUpdateTs": "1757592673",
+        "lastUpdateTs": "1757839287",
         "numMiners": "16",
-        "rewardsPerTokenStored": "774538830015737257765",
+        "rewardsPerTokenStored": "779266169481923260415",
         "rewardsShare": "8861661085743",
-        "totalTokensDeposited": "2309584462"
+        "totalTokensDeposited": "2307584462"
       },
       "index": 117,
       "quarry": "E54ywWFzHuftAPcjtg5okNeczFZpHEJK7UYeCPBe7zkN",
@@ -2310,9 +2310,9 @@
       "cached": {
         "famineTs": "9223372036854775807",
         "index": 128,
-        "lastUpdateTs": "1757592673",
+        "lastUpdateTs": "1757879992",
         "numMiners": "9",
-        "rewardsPerTokenStored": "88912494375320335632",
+        "rewardsPerTokenStored": "93458470639297390973",
         "rewardsShare": "147401806927638",
         "totalTokensDeposited": "46543363507"
       },
