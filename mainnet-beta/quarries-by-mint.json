@@ -4727,6 +4727,17 @@
         "decimals": 9,
         "mint": "EUWoTx5vQQrxaDFdeK2PLUVbnmRWjw4x6sBbmcxBaHjF"
       }
+    },
+    {
+      "mergePool": "7CgHK2WPs2psA8Q7bshJ3EXvVGZYPo2MpK1U1gcuF3Zp",
+      "quarry": "57LYCq2Terq8u4iUP4cpgBn6rZPvopfEDTfU8WGKHsxp",
+      "replicaMint": "3mZJJdtrTeeXZmLZrFc1dMUdWDSohaUKvRmCaX7FnBRW",
+      "rewarder": "DBQ3FGLzHrbkfD8MpgXd5aGx9Bwqkt4gGhkYCoDuzz9W",
+      "slug": "0",
+      "token": {
+        "decimals": 9,
+        "mint": "EUWoTx5vQQrxaDFdeK2PLUVbnmRWjw4x6sBbmcxBaHjF"
+      }
     }
   ],
   "EVyUVdBveEmfApJvBQKgt5Ac8k8MenhoCjAuS3SkPtep": [
