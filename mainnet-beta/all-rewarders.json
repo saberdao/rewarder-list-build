@@ -1910,6 +1910,15 @@
           "decimals": 8,
           "mint": "6PXpugu8o3WVSKMY1WuB3fe9aKgadCmDKMSmzsvY3TVk"
         }
+      },
+      {
+        "index": 187,
+        "quarry": "CwREaX4kBqoyP1WYvS6BvudiVpUFDnDPgTL56TCpwR3e",
+        "slug": "187",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "ESiQhAjdRXhohjrk5dvgGZKscyQfGqxuPEj9SCCzK9JW"
+        }
       }
     ],
     "rewardsToken": {
