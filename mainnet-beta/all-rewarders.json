@@ -1919,6 +1919,15 @@
           "decimals": 8,
           "mint": "ESiQhAjdRXhohjrk5dvgGZKscyQfGqxuPEj9SCCzK9JW"
         }
+      },
+      {
+        "index": 188,
+        "quarry": "DTri83scCG14HrCmkFEeVJgCPFcucTdEYqqmawJGfnDD",
+        "slug": "188",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "XFgzSyTsN8Cs6BNz79jxrCuYUDftFpUL7nhMEKDKKyL"
+        }
       }
     ],
     "rewardsToken": {
