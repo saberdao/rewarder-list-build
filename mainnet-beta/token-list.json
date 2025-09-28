@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2025-09-27T08:17:22.958Z",
+  "timestamp": "2025-09-28T08:17:24.005Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -6923,6 +6923,13 @@
         "stablecoin",
         "saber-mkt-usd"
       ]
+    },
+    {
+      "address": "EhcQvzM98rsK5tKuaXghmrJKU84tbwDfeoE6jSHMsbHj",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token EhcQ",
+      "symbol": "EhcQv"
     },
     {
       "address": "EiCoG6Y7DEQuSyLMi4NswvFjmm12D42eVHupNqnVW2Fx",
