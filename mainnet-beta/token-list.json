@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2025-10-04T08:17:14.823Z",
+  "timestamp": "2025-10-05T08:17:04.870Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -1279,6 +1279,22 @@
       "decimals": 8,
       "name": "Token 4tiC",
       "symbol": "4tiCL"
+    },
+    {
+      "address": "4UsddKWjRXrgrmWiFRKTnR6bAXNC63omSVRM26oKrCKV",
+      "chainId": 101,
+      "decimals": 6,
+      "extensions": {
+        "source": "quarry-merge-mine-replica",
+        "underlyingTokens": [
+          "xADX3LBzhomiXRUeCPSdz3e6yoRXmqiyic4UKca8q6U"
+        ]
+      },
+      "name": "Token xADX (Replica)",
+      "symbol": "qrxADX3",
+      "tags": [
+        "quarry-merge-mine-replica"
+      ]
     },
     {
       "address": "4uYrnduX2unMEG9LLbE4swqHmmXHKhc7DugTbLTK8hLE",
@@ -11981,6 +11997,13 @@
         "saber-stableswap-lp",
         "saber-lp-wormhole-v2"
       ]
+    },
+    {
+      "address": "xADX3LBzhomiXRUeCPSdz3e6yoRXmqiyic4UKca8q6U",
+      "chainId": 101,
+      "decimals": 6,
+      "name": "Token xADX",
+      "symbol": "xADX3"
     },
     {
       "address": "xBTCPvRuEuRgz5DuuUd3ju3VP5XtR2Dsu1AxyW9JpXK",
