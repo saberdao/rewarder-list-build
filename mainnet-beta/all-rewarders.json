@@ -1937,6 +1937,15 @@
           "decimals": 8,
           "mint": "EhcQvzM98rsK5tKuaXghmrJKU84tbwDfeoE6jSHMsbHj"
         }
+      },
+      {
+        "index": 190,
+        "quarry": "AP1QKpfK5chKxHgF6mNwWzC7KQpNKCbMtWkEcjAjKuwT",
+        "slug": "190",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "CHo3xZfcphHn39MSu6E4eLJKkRoCk2TceY1wqRVwZ9kp"
+        }
       }
     ],
     "rewardsToken": {

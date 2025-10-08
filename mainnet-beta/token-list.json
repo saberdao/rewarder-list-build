@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2025-10-07T08:20:53.775Z",
+  "timestamp": "2025-10-08T08:21:09.608Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -5791,6 +5791,13 @@
       "tags": [
         "saber-mkt-sol"
       ]
+    },
+    {
+      "address": "CHo3xZfcphHn39MSu6E4eLJKkRoCk2TceY1wqRVwZ9kp",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token CHo3",
+      "symbol": "CHo3x"
     },
     {
       "address": "CjJLg4DhF4KaTxjFVYNYasD6fEdYiBi72Gjfxc3QuQns",
