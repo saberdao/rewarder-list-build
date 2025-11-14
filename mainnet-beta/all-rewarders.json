@@ -1946,6 +1946,15 @@
           "decimals": 8,
           "mint": "CHo3xZfcphHn39MSu6E4eLJKkRoCk2TceY1wqRVwZ9kp"
         }
+      },
+      {
+        "index": 191,
+        "quarry": "JCL1Yjzttrh853S5X3jUcwAHdoXxfTA5eFxin5aypZjo",
+        "slug": "191",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "4tJzyC46PrZmgifK3FTynwZ2XnzvgQRveLYhx6bWe4U5"
+        }
       }
     ],
     "rewardsToken": {
