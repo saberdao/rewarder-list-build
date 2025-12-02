@@ -4803,6 +4803,17 @@
         "decimals": 9,
         "mint": "EUWoTx5vQQrxaDFdeK2PLUVbnmRWjw4x6sBbmcxBaHjF"
       }
+    },
+    {
+      "mergePool": "7CgHK2WPs2psA8Q7bshJ3EXvVGZYPo2MpK1U1gcuF3Zp",
+      "quarry": "F1ViT6RVa1THmEBmCCSvujZA4LWvZQporNqzj7Ju62wp",
+      "replicaMint": "3mZJJdtrTeeXZmLZrFc1dMUdWDSohaUKvRmCaX7FnBRW",
+      "rewarder": "HcJyppzZoEWPdmn5LUbwUeFXnnENDLCkkWpjN2iMvZxK",
+      "slug": "0",
+      "token": {
+        "decimals": 9,
+        "mint": "EUWoTx5vQQrxaDFdeK2PLUVbnmRWjw4x6sBbmcxBaHjF"
+      }
     }
   ],
   "EVyUVdBveEmfApJvBQKgt5Ac8k8MenhoCjAuS3SkPtep": [

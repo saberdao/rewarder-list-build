@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2025-12-01T08:25:44.159Z",
+  "timestamp": "2025-12-02T08:24:33.381Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -11719,6 +11719,13 @@
       "decimals": 6,
       "name": "Token vpts",
       "symbol": "vpts2"
+    },
+    {
+      "address": "vpts3YVchXD2i6ivVEZLQ9Y1kzifTNpFoja7zfKr4eG",
+      "chainId": 101,
+      "decimals": 6,
+      "name": "Token vpts",
+      "symbol": "vpts3"
     },
     {
       "address": "vPtS4ywrbEuufwPkBXsCYkeTBfpzCd6hF52p8kJGt9b",
