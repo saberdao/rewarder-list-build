@@ -1207,6 +1207,19 @@
       }
     }
   ],
+  "5mQHXvLipHB7b2AbaoUBueBprGdbTNe6jSomfMzUrb2F": [
+    {
+      "mergePool": "Cg3KGAmzSPT7WnnQ2TFDjmjNQbN9vJtffYBZmjxgLs6u",
+      "quarry": "7yeTGbFuMUVH7zq9JaGhLprStzEsgNQCijXfxFHWb5UN",
+      "replicaMint": "BGWoqyf8peXvefSUp63nqfXQSDPswE1AtFzKJj7adUZB",
+      "rewarder": "3UE9zrhfwQBiM4n2yad3zYF3vDULdMWezRr8MBtJu7j4",
+      "slug": "194",
+      "token": {
+        "decimals": 8,
+        "mint": "5mQHXvLipHB7b2AbaoUBueBprGdbTNe6jSomfMzUrb2F"
+      }
+    }
+  ],
   "5not8cyYWV9Unrb5nBc9MpYwzaTzsyXDMiRCJ9xmZmMe": [
     {
       "mergePool": "HrunKWYE753dGRUsP65ZPtH3D3tu41ZGXd9Me8dS2aXx",
@@ -3504,6 +3517,19 @@
       "token": {
         "decimals": 2,
         "mint": "BteRTgfrrxyVwJAgAvv9GsLuyn4CWdBRYbBBqE3FM94z"
+      }
+    }
+  ],
+  "BtxP4cWWLgqSBRhYXkJM86M8fMzNSQNJYhbZqYUKLQpG": [
+    {
+      "mergePool": "BnLxAGWhdFYYgsgrMJrSeakpt1AK7WF3YBoeyh1KPBpD",
+      "quarry": "2Nte5tUwgj73NDkV7VRL2kWEfLLUD5kQGzt5nVVv2BD6",
+      "replicaMint": "hNQkEGqnfK3BBdF8eJeLfy2TXq2s66h6YoA5fHHNz7D",
+      "rewarder": "3UE9zrhfwQBiM4n2yad3zYF3vDULdMWezRr8MBtJu7j4",
+      "slug": "193",
+      "token": {
+        "decimals": 8,
+        "mint": "BtxP4cWWLgqSBRhYXkJM86M8fMzNSQNJYhbZqYUKLQpG"
       }
     }
   ],
