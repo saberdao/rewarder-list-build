@@ -1982,6 +1982,15 @@
           "decimals": 8,
           "mint": "5mQHXvLipHB7b2AbaoUBueBprGdbTNe6jSomfMzUrb2F"
         }
+      },
+      {
+        "index": 195,
+        "quarry": "DvkVEdFyfk9tNSx6Zv8Hp1nmPaRmQTNehw6PWuTE7Pub",
+        "slug": "195",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "dGgcfXuneK9EmvJvsYovcQswxbrLrAuEAAtQtx6FARK"
+        }
       }
     ],
     "rewardsToken": {

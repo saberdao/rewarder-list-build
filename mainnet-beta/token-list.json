@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2025-12-16T08:24:53.669Z",
+  "timestamp": "2025-12-17T08:24:30.975Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -6389,6 +6389,13 @@
       "decimals": 8,
       "name": "Token DGc2",
       "symbol": "DGc23"
+    },
+    {
+      "address": "dGgcfXuneK9EmvJvsYovcQswxbrLrAuEAAtQtx6FARK",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token dGgc",
+      "symbol": "dGgcf"
     },
     {
       "address": "DhAqdjjj8aM6wakquwCeVe6KDysShnfz9uud7bHBhHEy",
