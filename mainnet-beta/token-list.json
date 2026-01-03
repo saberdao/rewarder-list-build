@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-01-02T08:23:50.561Z",
+  "timestamp": "2026-01-03T08:21:53.676Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -8752,6 +8752,13 @@
       "tags": [
         "saber-stableswap-lp"
       ]
+    },
+    {
+      "address": "H1Yi9Ki6wAhVJAVhG2GRuvv7isf15j1ugyEcZgVJnQ9m",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token H1Yi",
+      "symbol": "H1Yi9"
     },
     {
       "address": "H4vxHAts6emKeJKc6S61M7CZYsZ3uBkHJ8njPUfSKA7t",

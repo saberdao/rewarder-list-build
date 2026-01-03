@@ -2018,6 +2018,15 @@
           "decimals": 8,
           "mint": "2Uv6yhFahSpLMvoKmkixhD8gxkwFQpJXXXesnPGzASdH"
         }
+      },
+      {
+        "index": 199,
+        "quarry": "EWY6LuzJrkshEnkfLAUGXdUjt4i8f1SiGvBFKTYWCnk5",
+        "slug": "199",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "H1Yi9Ki6wAhVJAVhG2GRuvv7isf15j1ugyEcZgVJnQ9m"
+        }
       }
     ],
     "rewardsToken": {
