@@ -2027,6 +2027,24 @@
           "decimals": 8,
           "mint": "H1Yi9Ki6wAhVJAVhG2GRuvv7isf15j1ugyEcZgVJnQ9m"
         }
+      },
+      {
+        "index": 200,
+        "quarry": "6hhL79ir3aqB9KRqnpgRy6cuVyoRJMqEE9yC1QwyeQ6W",
+        "slug": "200",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "4NskXothqXTHzci35XF41bkdk2F9jvn5X88sQYmgNaJ8"
+        }
+      },
+      {
+        "index": 201,
+        "quarry": "EX2K6ev6RgUny7junCWKM8UbdEpy9cCE7P6RhvDkKsyT",
+        "slug": "201",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "3Yerrbo4UGtqXj557jJmofwG4W2uJab5gSjy9Yr5pn1T"
+        }
       }
     ],
     "rewardsToken": {
