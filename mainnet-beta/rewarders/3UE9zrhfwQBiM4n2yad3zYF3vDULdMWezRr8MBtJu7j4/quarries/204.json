@@ -1,0 +1,33 @@
+{
+  "quarry": {
+    "index": 204,
+    "isReplica": false,
+    "mergePool": "6whZPGsrfVdFnV1RFMa98GEoNdC6oSVvcYE5SVV3TVCq",
+    "primaryQuarries": [],
+    "primaryToken": {
+      "decimals": 8,
+      "mint": "3CQc8f4pdc7UNdKrRHcAYKmW9piCLphoXV1f4YBTNBdq"
+    },
+    "primaryTokenInfo": null,
+    "quarry": "Gmnwcvf3MM4MX5LZkbUqKtqgHaZ8Uaqh2aXj6a4tPnZ5",
+    "replicaMint": "86Z2csjhsVDrkjjTdAxMzSme4pS7wk8EDcYADUucPiaF",
+    "replicaQuarries": [],
+    "slug": "204",
+    "stakedToken": {
+      "decimals": 8,
+      "mint": "3CQc8f4pdc7UNdKrRHcAYKmW9piCLphoXV1f4YBTNBdq"
+    }
+  },
+  "rewarder": {
+    "authority": "DQP4cuy1EbX1QZwAMj72W5Czd9koCfk5YXUrSQEd6dK8",
+    "mintWrapper": "HvY81TK1ESa1D6bPHkNfFkWR2XrYwaRkwe7xMtwyZ4DL",
+    "rewardsToken": {
+      "decimals": 6,
+      "mint": "3cDRtoxDzbeHM63bunnbC6HehUo5R6KT69dSEHzzGrn6"
+    },
+    "rewardsTokenInfo": null,
+    "slug": "3UE9zrhfwQBiM4n2yad3zYF3vDULdMWezRr8MBtJu7j4"
+  },
+  "stakedToken": null,
+  "underlyingTokens": []
+}

@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-01-07T08:24:52.290Z",
+  "timestamp": "2026-01-08T08:25:09.443Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -224,6 +224,13 @@
       "decimals": 6,
       "name": "Token 2Cve",
       "symbol": "2Cvey"
+    },
+    {
+      "address": "2EYBta1hFTutDnqGQBFqACknWCNRFya9MKGYACjcXBvu",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token 2EYB",
+      "symbol": "2EYBt"
     },
     {
       "address": "2FGHCSGLdBU7Fgd3ZACUt7Q82waxiAqVRT4KXhS1MHGP",
@@ -604,6 +611,13 @@
       "decimals": 6,
       "name": "Token 3cDR",
       "symbol": "3cDRt"
+    },
+    {
+      "address": "3CQc8f4pdc7UNdKrRHcAYKmW9piCLphoXV1f4YBTNBdq",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token 3CQc",
+      "symbol": "3CQc8"
     },
     {
       "address": "3DgkwzQN5gooSt7528Huupmtt53TLcfZdmgmeRLLVdg9",
@@ -6469,6 +6483,13 @@
         "stablecoin",
         "saber-mkt-usd"
       ]
+    },
+    {
+      "address": "DHRcsSr9S4WWxqBLSEurkEWLVhiCGoooERgtWbyjuSPf",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token DHRc",
+      "symbol": "DHRcs"
     },
     {
       "address": "DHvEBPxbUbDr53DZtr7tJ1Wm1S1UQGe67ZN6Ciyv7tHW",
