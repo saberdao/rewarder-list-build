@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-01-10T08:21:16.504Z",
+  "timestamp": "2026-01-11T08:21:34.516Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -4612,6 +4612,13 @@
       "decimals": 6,
       "name": "Token Az46",
       "symbol": "Az46V"
+    },
+    {
+      "address": "B2MDBsShmrsgxirHvYve8JcqvikLxEyyxCoL8F7dwuTo",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token B2MD",
+      "symbol": "B2MDB"
     },
     {
       "address": "B3EHHWWTU9YmWfb7cws8dmEydXxBA72Wwc93sWh5aFZy",
