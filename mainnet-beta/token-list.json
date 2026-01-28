@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-01-27T08:27:56.059Z",
+  "timestamp": "2026-01-28T08:26:50.202Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -9850,6 +9850,13 @@
         "saber-mkt-usd",
         "saber-dec-wrapped"
       ]
+    },
+    {
+      "address": "jrGn3MnS2oyNqoCW5EYwFN9g4sNt9rNCLJimFcwajSJ",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token jrGn",
+      "symbol": "jrGn3"
     },
     {
       "address": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
