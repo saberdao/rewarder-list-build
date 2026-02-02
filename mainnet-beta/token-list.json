@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-02-01T08:27:31.957Z",
+  "timestamp": "2026-02-02T08:37:43.088Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -4452,6 +4452,13 @@
       "decimals": 8,
       "name": "Token Atj9",
       "symbol": "Atj9M"
+    },
+    {
+      "address": "AUonUEeCMQpZiAqcwhbEkmrUoB89UtKX1aEUgbeBSiZZ",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token AUon",
+      "symbol": "AUonU"
     },
     {
       "address": "AuQaBjyhWDVWhn6jUkgVWdB7bL6PseTE3BU1d1iMgU2p",

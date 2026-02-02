@@ -2099,6 +2099,15 @@
           "decimals": 8,
           "mint": "jrGn3MnS2oyNqoCW5EYwFN9g4sNt9rNCLJimFcwajSJ"
         }
+      },
+      {
+        "index": 208,
+        "quarry": "6w8D1xs18HATtEXdtTEtkv6uFADaCmoyeCjYY9DqjWeF",
+        "slug": "208",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "AUonUEeCMQpZiAqcwhbEkmrUoB89UtKX1aEUgbeBSiZZ"
+        }
       }
     ],
     "rewardsToken": {
