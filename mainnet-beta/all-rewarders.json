@@ -2145,6 +2145,24 @@
           "decimals": 8,
           "mint": "FRjVjN8K3Hk6YPQKSUyBvkN4B9rTgtN3vSu21ppPhjXY"
         }
+      },
+      {
+        "index": 211,
+        "quarry": "4N8LyPGgrd63SEGsruTpNKyHL9ATzFMog2XEWW9QzvSm",
+        "slug": "211",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "J1e43HTgeURu5njiXhggZVEaYzGjWn6tACB255QAgPP5"
+        }
+      },
+      {
+        "index": 212,
+        "quarry": "FHnKnNfweWcjX5nMUGTy111pN6fkJPDzMR6Q7tDruNSC",
+        "slug": "212",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "EWVueKJoFeN4TRi6QEjvgXEmFrPTLt47hCPUxAiCJ74X"
+        }
       }
     ],
     "rewardsToken": {
