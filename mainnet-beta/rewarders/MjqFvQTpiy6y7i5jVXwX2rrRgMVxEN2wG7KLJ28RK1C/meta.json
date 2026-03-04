@@ -4,13 +4,13 @@
   "quarries": [
     {
       "cached": {
-        "famineTs": "1773107682",
+        "famineTs": "1773193738",
         "index": 0,
-        "lastUpdateTs": "1772502886",
+        "lastUpdateTs": "1772588952",
         "numMiners": "6",
-        "rewardsPerTokenStored": "22580229416072931",
+        "rewardsPerTokenStored": "22586657671401565",
         "rewardsShare": "1",
-        "totalTokensDeposited": "5590952548198"
+        "totalTokensDeposited": "5593944368154"
       },
       "index": 0,
       "quarry": "3x2nKoFyGrPogTDD96Nci8U3D1JkX78ZPNAQ5ym8f546",
