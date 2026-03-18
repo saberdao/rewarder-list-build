@@ -3853,6 +3853,24 @@
         "decimals": 8,
         "mint": "HUsqnweSwK3JQACXt431ojKmhpNVF1qkpcSh4cqTo2YV"
       }
+    },
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 214,
+        "lastUpdateTs": "0",
+        "numMiners": "0",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "0"
+      },
+      "index": 214,
+      "quarry": "6v4sy3A56ieNHmqALYfm1feijPUzT9PWcLfqeWTUvtbH",
+      "slug": "214",
+      "stakedToken": {
+        "decimals": 8,
+        "mint": "8xQ2mmcfrBzUJmQ2yXYZQmGREuWh3CAhm2cZncg2C9S2"
+      }
     }
   ],
   "rewardsToken": {
