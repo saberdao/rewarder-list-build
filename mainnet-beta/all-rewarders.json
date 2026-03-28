@@ -2181,6 +2181,15 @@
           "decimals": 8,
           "mint": "8xQ2mmcfrBzUJmQ2yXYZQmGREuWh3CAhm2cZncg2C9S2"
         }
+      },
+      {
+        "index": 215,
+        "quarry": "BiAzbKieURkeVa33DtVanmqKwADnHszLCuu8z2MpRcvv",
+        "slug": "215",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "ADap54AosbJL3J8xWFiWMuzy5vUi3W7zqTqDcN7wBnxU"
+        }
       }
     ],
     "rewardsToken": {

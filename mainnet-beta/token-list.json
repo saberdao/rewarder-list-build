@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-03-27T08:44:40.661Z",
+  "timestamp": "2026-03-28T08:34:09.346Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -3792,6 +3792,13 @@
       "decimals": 8,
       "name": "Token AcpK",
       "symbol": "AcpKf"
+    },
+    {
+      "address": "ADap54AosbJL3J8xWFiWMuzy5vUi3W7zqTqDcN7wBnxU",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token ADap",
+      "symbol": "ADap5"
     },
     {
       "address": "Ae1tXBmQUNWAPxCoDrntmw3S3buVHhWHQVSW43uZtRaY",
