@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-04-02T08:51:50.810Z",
+  "timestamp": "2026-04-03T08:46:47.202Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -1263,6 +1263,13 @@
         "saber-stableswap-lp",
         "saber-lp-synthetify"
       ]
+    },
+    {
+      "address": "4PbKY1dbHnZP6DdvQyiewJT8JiM62vxUzCnnKN3dGEDg",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token 4PbK",
+      "symbol": "4PbKY"
     },
     {
       "address": "4q6pVf1vnYuXSUk5CJh7askbb1TnHJWccYzY1nn7Z1vX",
