@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-04-05T08:37:54.283Z",
+  "timestamp": "2026-04-06T09:04:09.989Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -3199,6 +3199,13 @@
         "collateral-tokens",
         "saber-mkt-usd"
       ]
+    },
+    {
+      "address": "9Cm8dQiahgDngReVg7uND5ryBwSWqSgs2MyC6Ezv4Y4C",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token 9Cm8",
+      "symbol": "9Cm8d"
     },
     {
       "address": "9CYpsB19rAKLeqkp1GMjtJPehz7nChqCj9Xzaqd7ZRmd",
