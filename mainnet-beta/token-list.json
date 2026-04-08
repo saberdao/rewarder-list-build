@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-04-07T08:57:04.954Z",
+  "timestamp": "2026-04-08T08:55:58.226Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -6173,6 +6173,13 @@
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/CPNCsU7FCtPnvfBcMSRBq1jixVCPY4eMjGfYTqXRnv3s/icon.png",
       "name": "Saros ABR-CASH Saros LP",
       "symbol": "ABR-CASH"
+    },
+    {
+      "address": "CPyBisjsuHF9fbZf986uwZa9bTs1D9wX8p8ToTH3Ub9p",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token CPyB",
+      "symbol": "CPyBi"
     },
     {
       "address": "CQdfzczhxgdB8SxBRMkMumy6M39MLFGSfc7YmewDcUV9",
