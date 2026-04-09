@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-04-08T08:55:58.226Z",
+  "timestamp": "2026-04-09T09:03:09.125Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -4923,6 +4923,13 @@
       ]
     },
     {
+      "address": "Bfgp4nfRqijRukYBgRAgPy2QSN1JTYV7S3irBSxQShSr",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token Bfgp",
+      "symbol": "Bfgp4"
+    },
+    {
       "address": "BFoCewRT2PwyoKbapg1banJ6uJdRsXeQonLJzzAGgUyk",
       "chainId": 101,
       "decimals": 8,
@@ -5556,6 +5563,13 @@
       "logoURI": "https://raw.githubusercontent.com/SenchaHQ/sencha-lp-token-list/master/assets/mainnet/BzZRM9HciRcgWNCjF1UdiYnHiNx6YAjuzcinVFL9CKYw/icon.png",
       "name": "Sencha SUNNY-CASH LP",
       "symbol": "sSUNNY-CASH"
+    },
+    {
+      "address": "C1AJ6Xi1etufwnCHfwSYQmWVe46hibhzGtwtkh7m8NqX",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token C1AJ",
+      "symbol": "C1AJ6"
     },
     {
       "address": "C4k4Gk63eaZ2exxYsoY9pzG2YZLU1aro38UxDab7ywxZ",
@@ -8769,6 +8783,13 @@
       "decimals": 2,
       "name": "Token GuvT",
       "symbol": "GuvTU"
+    },
+    {
+      "address": "GuzyviuesjVqMmLDKavDaYx6uAwEnUgj6EoD39nazxan",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token Guzy",
+      "symbol": "Guzyv"
     },
     {
       "address": "GVxZhiqjdiLSjSKwHtd3Fqf4YgY4vSDsgyzpA5xbq94K",

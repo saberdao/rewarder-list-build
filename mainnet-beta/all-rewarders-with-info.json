@@ -4993,6 +4993,63 @@
           "decimals": 8,
           "mint": "CPyBisjsuHF9fbZf986uwZa9bTs1D9wX8p8ToTH3Ub9p"
         }
+      },
+      {
+        "index": 220,
+        "isReplica": false,
+        "mergePool": "9iYwkveDKQGyEuWkuqMsTRq9UbymtoSQjK7NFD4dzQBC",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 8,
+          "mint": "C1AJ6Xi1etufwnCHfwSYQmWVe46hibhzGtwtkh7m8NqX"
+        },
+        "primaryTokenInfo": null,
+        "quarry": "7jLByrpmMyZRzM8NYhdzk3xeMQpZ4x344qWrQpxp8E7J",
+        "replicaMint": "9JjpJyZVNMQyXcyxcx5NwA1JaD7YpUgBLGEQGM8VvRqw",
+        "replicaQuarries": [],
+        "slug": "220",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "C1AJ6Xi1etufwnCHfwSYQmWVe46hibhzGtwtkh7m8NqX"
+        }
+      },
+      {
+        "index": 221,
+        "isReplica": false,
+        "mergePool": "FrgDrEWUdhPkgBaeep3xLnVSYatYCdoVPN7qM8rG2wp7",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 8,
+          "mint": "Bfgp4nfRqijRukYBgRAgPy2QSN1JTYV7S3irBSxQShSr"
+        },
+        "primaryTokenInfo": null,
+        "quarry": "Jta1M8KTCVL5crhr8JLePVpSn3HD71ffxbtPgy9tjPz",
+        "replicaMint": "H5faJRR2UGnKAhdJbhoR5aJfV5xM4Zky7gXxb6koVech",
+        "replicaQuarries": [],
+        "slug": "221",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "Bfgp4nfRqijRukYBgRAgPy2QSN1JTYV7S3irBSxQShSr"
+        }
+      },
+      {
+        "index": 222,
+        "isReplica": false,
+        "mergePool": "8EMpTzNWZf6R9P9GQ1JqBqkHW3Gf8kmck7PyWEMMvsWe",
+        "primaryQuarries": [],
+        "primaryToken": {
+          "decimals": 8,
+          "mint": "GuzyviuesjVqMmLDKavDaYx6uAwEnUgj6EoD39nazxan"
+        },
+        "primaryTokenInfo": null,
+        "quarry": "7M3PYcZdKkBsqV6zs4MKLp8dm5duorQuBfDYV7caKTGq",
+        "replicaMint": "7AWxDUkosYzWTPwvdtNVe6UPmz1XM3L5PTzkzQo6WZzN",
+        "replicaQuarries": [],
+        "slug": "222",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "GuzyviuesjVqMmLDKavDaYx6uAwEnUgj6EoD39nazxan"
+        }
       }
     ],
     "rewardsToken": {

@@ -3961,6 +3961,60 @@
         "decimals": 8,
         "mint": "CPyBisjsuHF9fbZf986uwZa9bTs1D9wX8p8ToTH3Ub9p"
       }
+    },
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 220,
+        "lastUpdateTs": "0",
+        "numMiners": "0",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "0"
+      },
+      "index": 220,
+      "quarry": "7jLByrpmMyZRzM8NYhdzk3xeMQpZ4x344qWrQpxp8E7J",
+      "slug": "220",
+      "stakedToken": {
+        "decimals": 8,
+        "mint": "C1AJ6Xi1etufwnCHfwSYQmWVe46hibhzGtwtkh7m8NqX"
+      }
+    },
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 221,
+        "lastUpdateTs": "0",
+        "numMiners": "0",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "0"
+      },
+      "index": 221,
+      "quarry": "Jta1M8KTCVL5crhr8JLePVpSn3HD71ffxbtPgy9tjPz",
+      "slug": "221",
+      "stakedToken": {
+        "decimals": 8,
+        "mint": "Bfgp4nfRqijRukYBgRAgPy2QSN1JTYV7S3irBSxQShSr"
+      }
+    },
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 222,
+        "lastUpdateTs": "0",
+        "numMiners": "0",
+        "rewardsPerTokenStored": "0",
+        "rewardsShare": "0",
+        "totalTokensDeposited": "0"
+      },
+      "index": 222,
+      "quarry": "7M3PYcZdKkBsqV6zs4MKLp8dm5duorQuBfDYV7caKTGq",
+      "slug": "222",
+      "stakedToken": {
+        "decimals": 8,
+        "mint": "GuzyviuesjVqMmLDKavDaYx6uAwEnUgj6EoD39nazxan"
+      }
     }
   ],
   "rewardsToken": {
