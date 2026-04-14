@@ -2253,6 +2253,15 @@
           "decimals": 8,
           "mint": "GuzyviuesjVqMmLDKavDaYx6uAwEnUgj6EoD39nazxan"
         }
+      },
+      {
+        "index": 223,
+        "quarry": "W58TXpPkevYMQRZn68bQS7ZVDadujFvsPdQcBVicGUS",
+        "slug": "223",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "435uFxhjK2MGoDMxTox2QjvGamZ2mRLKz5j6Bs8NYqQG"
+        }
       }
     ],
     "rewardsToken": {
