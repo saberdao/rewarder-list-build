@@ -862,6 +862,19 @@
       }
     }
   ],
+  "4U4XiEZ6oiEL9kKa1V5uDNqsR2CkMYmYMZfY7qhBLVy7": [
+    {
+      "mergePool": "2WqJfkxXgh12oLHF1JgRum341GEfJpoQAyRCVQZeXhKE",
+      "quarry": "ABqRuFMqiG4GzeVLkp26PXFZnAX2bYG5LovswDfGGTRh",
+      "replicaMint": "3LCgkip4Ae7ofqPLZAhnRFkuBuqc99kFRZ5hXkvCswUe",
+      "rewarder": "3UE9zrhfwQBiM4n2yad3zYF3vDULdMWezRr8MBtJu7j4",
+      "slug": "224",
+      "token": {
+        "decimals": 8,
+        "mint": "4U4XiEZ6oiEL9kKa1V5uDNqsR2CkMYmYMZfY7qhBLVy7"
+      }
+    }
+  ],
   "4UsddKWjRXrgrmWiFRKTnR6bAXNC63omSVRM26oKrCKV": [
     {
       "mergePool": "XKoqn9WgkLEDT3NLtHAjSGtJQDu9SiJiZp5pWMrxtB6",
