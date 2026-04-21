@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-04-20T09:54:49.280Z",
+  "timestamp": "2026-04-21T09:21:14.586Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -10977,6 +10977,13 @@
       "decimals": 8,
       "name": "Token qwsb",
       "symbol": "qwsbS"
+    },
+    {
+      "address": "R4WHpATxi8hLDHC61GTW8A1tDbx7YqtapGwKGguC9b2",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token R4WH",
+      "symbol": "R4WHp"
     },
     {
       "address": "ra2JjsMnVMQMaJYhbfwyA2pZjUDrtXoaLfmGRYgFyed",
