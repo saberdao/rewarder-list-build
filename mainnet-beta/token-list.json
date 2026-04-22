@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-04-21T09:21:14.586Z",
+  "timestamp": "2026-04-22T09:15:40.440Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -7225,6 +7225,13 @@
         "saber-stableswap-lp",
         "saber-lp-allbridge"
       ]
+    },
+    {
+      "address": "EL8sW5y5Qdvs2faowgkq1dN2NEdrduJX8xMgV1ZrjRv5",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token EL8s",
+      "symbol": "EL8sW"
     },
     {
       "address": "EoNJJWQMdvMscCL7V6wNrGaDLi791sPZH1hSzHcwfsDj",
