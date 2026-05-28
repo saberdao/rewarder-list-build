@@ -5158,6 +5158,44 @@
       "mint": "236zBz1Q1EwTHFTB51czDxU7ZPh689PTcuPju87XVjer"
     }
   },
+  "D4SQxGFZguXmJnii1UtCm3R2qqUvyZm6zFhcmykqrYKR": {
+    "authority": "4AYuxBEgu52PFhaCVv3N4KSj8TAijfSXAQDdEW2FWngD",
+    "mintWrapper": "DXYNxbvDPwWfR9wD6aZfFKHga9NsSptj65fsWTBoaHPg",
+    "quarries": [
+      {
+        "index": 0,
+        "quarry": "GXWJ5iyib3YqXM6qVPhqPWfxa1ujNQ6nSzRir8iAmpUS",
+        "slug": "0",
+        "stakedToken": {
+          "decimals": 9,
+          "mint": "GoULGQAtjuPe2xLHZu2ZPn7SGT87mJMKZasqSsjGU7oL"
+        }
+      }
+    ],
+    "rewardsToken": {
+      "decimals": 9,
+      "mint": "FJqHVHAFEWstpTMEKgkgoyaP3eyMgjM4oXv4tQ8rSJC7"
+    }
+  },
+  "D8LY2Stj4nnLHwChgdRhvZF7VoFcvsP9zDVFVe5n2GuP": {
+    "authority": "4AYuxBEgu52PFhaCVv3N4KSj8TAijfSXAQDdEW2FWngD",
+    "mintWrapper": "8HoSUymkza6gtkzMU3uUWhnHGuJmTKPKABpnxDDotSLB",
+    "quarries": [
+      {
+        "index": 0,
+        "quarry": "4VbZKpnQU6cYyxoQrRnCrmvqdKaraswhYutwmkwtBQuU",
+        "slug": "0",
+        "stakedToken": {
+          "decimals": 9,
+          "mint": "GoULGQAtjuPe2xLHZu2ZPn7SGT87mJMKZasqSsjGU7oL"
+        }
+      }
+    ],
+    "rewardsToken": {
+      "decimals": 9,
+      "mint": "7gQYLxHSUytYnVpzZ96hv85nSWSdfLEqUjsH6Ei4qLza"
+    }
+  },
   "DBQ3FGLzHrbkfD8MpgXd5aGx9Bwqkt4gGhkYCoDuzz9W": {
     "authority": "3b5i2NvPgF5SQLnaZzHZA89jHqphsrjYYg1LxECX5Jn3",
     "mintWrapper": "8bdZUSdjmm1VjSGQSXGof5ovqEuYc9beU9w3eNueavtP",
@@ -5175,6 +5213,15 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "vpts2ezwkbyLVhREPUsfsx6DBQe1wsRKhxfnLB4eYCW"
+    }
+  },
+  "DJUW2pe8jWLrUxyg12Ms7w1jHGKXnctW9T7bAcbcXn6o": {
+    "authority": "4AYuxBEgu52PFhaCVv3N4KSj8TAijfSXAQDdEW2FWngD",
+    "mintWrapper": "6hdURDEbHJdZuNEoLsmbYb1ZoeFB5ZqBEP5TccjuMxHr",
+    "quarries": [],
+    "rewardsToken": {
+      "decimals": 9,
+      "mint": "D1tmaYeiJRQHqfsCvpjBnPsLHjGQ8R4Suv3A2kFhbmj2"
     }
   },
   "DJfPmK1cAgxn4Pm4ejwbdynbR1R1UU33zvgZ9H2WRuvF": {
@@ -5298,6 +5345,15 @@
     "rewardsToken": {
       "decimals": 6,
       "mint": "2L468wtJ9uUYK43zY2DTuXV8omrnCZ5SWXtbjfUbKQji"
+    }
+  },
+  "EPCn4iozs6ndDkLVJHaq4CXitxZKbBECNd77yK32RSJR": {
+    "authority": "4AYuxBEgu52PFhaCVv3N4KSj8TAijfSXAQDdEW2FWngD",
+    "mintWrapper": "3JNrNGsGBvJ5gmRatU4NHzzitUQyd3kb2BYHV6v1krmh",
+    "quarries": [],
+    "rewardsToken": {
+      "decimals": 9,
+      "mint": "FbFfqrx39vPu7nvPeomiwdy8sA5GKdCSkumpUcGhHWq6"
     }
   },
   "EZPTJJ4uAXYwGnuzFAmQs9PVCqFsY5cjccFD9xfcgULb": {

@@ -1,0 +1,28 @@
+{
+  "authority": "4AYuxBEgu52PFhaCVv3N4KSj8TAijfSXAQDdEW2FWngD",
+  "mintWrapper": "DXYNxbvDPwWfR9wD6aZfFKHga9NsSptj65fsWTBoaHPg",
+  "quarries": [
+    {
+      "cached": {
+        "famineTs": "9223372036854775807",
+        "index": 0,
+        "lastUpdateTs": "1779925529",
+        "numMiners": "1",
+        "rewardsPerTokenStored": "31564528038123577138",
+        "rewardsShare": "1",
+        "totalTokensDeposited": "10000000000000"
+      },
+      "index": 0,
+      "quarry": "GXWJ5iyib3YqXM6qVPhqPWfxa1ujNQ6nSzRir8iAmpUS",
+      "slug": "0",
+      "stakedToken": {
+        "decimals": 9,
+        "mint": "GoULGQAtjuPe2xLHZu2ZPn7SGT87mJMKZasqSsjGU7oL"
+      }
+    }
+  ],
+  "rewardsToken": {
+    "decimals": 9,
+    "mint": "FJqHVHAFEWstpTMEKgkgoyaP3eyMgjM4oXv4tQ8rSJC7"
+  }
+}
