@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-06-07T10:25:33.302Z",
+  "timestamp": "2026-06-08T12:24:52.778Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -3773,6 +3773,13 @@
         "saber-stableswap-lp",
         "saber-lp-synthetify"
       ]
+    },
+    {
+      "address": "A8p8VMh9w4AzCFR4Zr7H3bfPt9jVapdZhDuqDttx3CE6",
+      "chainId": 101,
+      "decimals": 9,
+      "name": "Token A8p8",
+      "symbol": "A8p8V"
     },
     {
       "address": "A94X2fRy3wydNShU4dRaDyap2UuoeWJGWyATtyp61WZf",
@@ -12050,6 +12057,13 @@
         "saber-stableswap-lp",
         "saber-lp-cashio"
       ]
+    },
+    {
+      "address": "vGTL2X9ZhMCNTWMnpTbMLJfARqiBGrBzC3BpNaWgt2E",
+      "chainId": 101,
+      "decimals": 9,
+      "name": "Token vGTL",
+      "symbol": "vGTL2"
     },
     {
       "address": "VLPa8SifUUNL6JvzUuLrjgRibkx7iGr5eVpX6MRR4Qx",
