@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-06-14T10:46:28.951Z",
+  "timestamp": "2026-06-15T13:50:25.392Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -736,6 +736,13 @@
       "decimals": 2,
       "name": "Token 3kvU",
       "symbol": "3kvUL"
+    },
+    {
+      "address": "3kxHUvQvg4LBxt5CvF5kWTNA6P1S6EswpCwBMvGi5Fzs",
+      "chainId": 101,
+      "decimals": 9,
+      "name": "Token 3kxH",
+      "symbol": "3kxHU"
     },
     {
       "address": "3LKZU3iQx9KM94S4uYRdYwAHTm6odDyzGQqTBNj7J27z",
@@ -2985,6 +2992,13 @@
         "saber-stableswap-lp",
         "saber-lp-allbridge"
       ]
+    },
+    {
+      "address": "8NwtzwGm4CV8Hm4fJXR69ac1MxDYuSaN3A9HVyikpump",
+      "chainId": 101,
+      "decimals": 6,
+      "name": "Token 8Nwt",
+      "symbol": "8Nwtz"
     },
     {
       "address": "8oYeh1dVhAcMxfxiN221opTS2UneqX2cWj1JGFAtCuUp",
