@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-06-21T11:13:16.955Z",
+  "timestamp": "2026-06-22T13:30:55.950Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -1753,6 +1753,13 @@
       "decimals": 6,
       "name": "Token 5qYa",
       "symbol": "5qYaX"
+    },
+    {
+      "address": "5RCN6BwekjYZd7t5VEbFT4iGWudJsQvtpw7sQ598vd77",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token 5RCN",
+      "symbol": "5RCN6"
     },
     {
       "address": "5RpUwQ8wtdPCZHhu6MERp2RGrpobsbZ6MH5dDHkUjs2",
@@ -7998,6 +8005,13 @@
         "saber-stableswap-lp",
         "saber-lp-synthetify"
       ]
+    },
+    {
+      "address": "FDtDdXLwP32mcSwstGv7qiSw9pAcronWVVuBaQDivXEe",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token FDtD",
+      "symbol": "FDtDd"
     },
     {
       "address": "FdvkkCbCgYht1xTR1W9MBJhEF1JEPVhHtW1NXBYRzZts",
