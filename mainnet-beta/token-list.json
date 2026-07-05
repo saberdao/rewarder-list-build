@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-07-04T10:04:20.580Z",
+  "timestamp": "2026-07-05T10:07:00.210Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -1946,6 +1946,13 @@
         "saber-stableswap-lp",
         "saber-lp-allbridge"
       ]
+    },
+    {
+      "address": "6fS9SaaD6tt4vvMUWTyD8gVAgCHhaL1FFyqXXvkJCMEA",
+      "chainId": 101,
+      "decimals": 9,
+      "name": "Token 6fS9",
+      "symbol": "6fS9S"
     },
     {
       "address": "6fTLLn27DUKd1mtzkLxmgtq2bjNi5DQk3w4hhuNoLSob",
@@ -8134,6 +8141,13 @@
         "lending",
         "collateral-tokens"
       ]
+    },
+    {
+      "address": "FHztxEvcZQo9JoBU5UttgDfmJQcjdRBc38LeHRmceq5d",
+      "chainId": 101,
+      "decimals": 9,
+      "name": "Token FHzt",
+      "symbol": "FHztx"
     },
     {
       "address": "FiejWTYUnDRK2Nxa6D4FvSs8JE2AFPsy2aLPhU3Cm2QZ",
