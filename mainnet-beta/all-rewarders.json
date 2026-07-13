@@ -2408,6 +2408,15 @@
           "decimals": 8,
           "mint": "CE6d9kMeMTPCp9HQPFxAWZjJ9LSqbG2qUeXxQHJC76B7"
         }
+      },
+      {
+        "index": 236,
+        "quarry": "47t9GnUb6A6CYd5wzNBPCsuXJYVcFU8zbxR3QxavqW8s",
+        "slug": "236",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "5wLAzxK3CrczhJPUkbjPZXgLLQxKwxY89JGfvDjmTJ6d"
+        }
       }
     ],
     "rewardsToken": {
