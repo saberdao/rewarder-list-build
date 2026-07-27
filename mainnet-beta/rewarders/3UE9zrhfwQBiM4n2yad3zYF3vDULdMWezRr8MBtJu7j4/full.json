@@ -4504,6 +4504,25 @@
         "decimals": 8,
         "mint": "5wLAzxK3CrczhJPUkbjPZXgLLQxKwxY89JGfvDjmTJ6d"
       }
+    },
+    {
+      "index": 237,
+      "isReplica": false,
+      "mergePool": "5ayAw6LHCcZ3m4cMYT4AwDRCcvcniKfMZu82oQ35YNjc",
+      "primaryQuarries": [],
+      "primaryToken": {
+        "decimals": 8,
+        "mint": "EK5H1CTESfnWBYvcnwkVi1vwiZ3t8Z98wkRhMw7TbHtv"
+      },
+      "primaryTokenInfo": null,
+      "quarry": "Hr56txDbjpPxfKR4Zsyc3enPDLchv1EroZfcH6T4SnRn",
+      "replicaMint": "EbAnwem6DNeQNqX4SG2dVRLe9HXC9m3a1JpuhjDad9gC",
+      "replicaQuarries": [],
+      "slug": "237",
+      "stakedToken": {
+        "decimals": 8,
+        "mint": "EK5H1CTESfnWBYvcnwkVi1vwiZ3t8Z98wkRhMw7TbHtv"
+      }
     }
   ],
   "rewardsToken": {
