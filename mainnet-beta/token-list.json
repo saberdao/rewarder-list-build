@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-08-06T10:33:48.897Z",
+  "timestamp": "2026-08-07T08:52:53.080Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -2777,6 +2777,13 @@
       "tags": [
         "saber-mkt-usd"
       ]
+    },
+    {
+      "address": "83xM8HLcXuZnBZ53JVGwtYBPpPwE9qDLuUk9uDWwVJn2",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token 83xM",
+      "symbol": "83xM8"
     },
     {
       "address": "84s5zKAYbMpKm5QEg6JpgbQGse5YsywKuzUaNTUcqGLD",
