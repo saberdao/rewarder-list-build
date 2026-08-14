@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-08-13T09:07:51.252Z",
+  "timestamp": "2026-08-14T09:02:52.226Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -1195,6 +1195,13 @@
       "logoURI": "https://raw.githubusercontent.com/coin98/saros-lp-token-list/master/assets/mainnet/4g7DwZVn8edcSYR34zE4Dm13YLH6ZvtXCNnaUyQSFy9w/icon.png",
       "name": "Saros C98-CASH Saros LP",
       "symbol": "C98-CASH"
+    },
+    {
+      "address": "4g8GYP8R6dTK9fqdiNGo5pDtubWaSq585B4cTCBAfULb",
+      "chainId": 101,
+      "decimals": 9,
+      "name": "Token 4g8G",
+      "symbol": "4g8GY"
     },
     {
       "address": "4GAhnhdzj2KyrEq9kXnn86Fyu4tga4RBK6Ryg8Ne43vd",
@@ -6340,6 +6347,13 @@
       "decimals": 6,
       "name": "Token CNYP",
       "symbol": "CNYPH"
+    },
+    {
+      "address": "Co7eCsEKkqYCZPy91hM27UGhpd6tvZvCGYXeJsKVJMnV",
+      "chainId": 101,
+      "decimals": 9,
+      "name": "Token Co7e",
+      "symbol": "Co7eC"
     },
     {
       "address": "CowKesoLUaHSbAMaUxJUj7eodHHsaLsS65cy8NFyRDGP",
