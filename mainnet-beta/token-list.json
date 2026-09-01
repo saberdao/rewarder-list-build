@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-08-31T15:46:44.105Z",
+  "timestamp": "2026-09-01T12:59:49.083Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -1616,6 +1616,13 @@
       "symbol": "SONAR-CASH"
     },
     {
+      "address": "5EkcVrs2FTymyxqRx5X5mYQo4RtxrbrBvu63B2eXcbwf",
+      "chainId": 101,
+      "decimals": 9,
+      "name": "Token 5Ekc",
+      "symbol": "5EkcV"
+    },
+    {
       "address": "5GiYdSyBkQegpqxsUUHwm4fJjd3qwdaMKt2qxVXUkbQ4",
       "chainId": 101,
       "decimals": 8,
@@ -2868,6 +2875,13 @@
         "saber-mkt-usd",
         "saber-dec-wrapped"
       ]
+    },
+    {
+      "address": "89kw9DzqGt6PnduyDxW2rTSjVkgREzV42Pz2q8o9YbZC",
+      "chainId": 101,
+      "decimals": 9,
+      "name": "Token 89kw",
+      "symbol": "89kw9"
     },
     {
       "address": "8APRHtmWq5yEsPqi6csKHg3ijbsNjdKUxpYBCibCwu6f",
