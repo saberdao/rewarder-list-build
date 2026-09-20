@@ -2482,6 +2482,15 @@
           "decimals": 8,
           "mint": "6VjPL5gbTAHDfN87UykaWdnbo7PdvBWhvth7Vbeu6K76"
         }
+      },
+      {
+        "index": 240,
+        "quarry": "5DPLT1muKxsJmnX6EbBdoRtXrXtqh9kEJKkdbrAvYhD",
+        "slug": "240",
+        "stakedToken": {
+          "decimals": 8,
+          "mint": "7j2Fy185HALpjZEiYKaupcMjuAeqR39kZqp5jMrWtF8Z"
+        }
       }
     ],
     "rewardsToken": {
