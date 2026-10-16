@@ -602,6 +602,19 @@
       }
     }
   ],
+  "3o5KKS4kizGMShTCoUGVyayJVLhM7XU62V7rWi5P5bsv": [
+    {
+      "mergePool": "EyMGdQDgUMaHWFrE7jovT6DR7T1oaqvgYZ4fga8HLXiS",
+      "quarry": "8WaPPGDfqc3hhPACPd8yh3QoKVd5weGgaUt7SrgFTQ2u",
+      "replicaMint": "DJdciUrANSfxVW4veLDnTngWJRroQmBeuJSM2Bn1hzYC",
+      "rewarder": "3UE9zrhfwQBiM4n2yad3zYF3vDULdMWezRr8MBtJu7j4",
+      "slug": "242",
+      "token": {
+        "decimals": 8,
+        "mint": "3o5KKS4kizGMShTCoUGVyayJVLhM7XU62V7rWi5P5bsv"
+      }
+    }
+  ],
   "3ptc6AfFW91wGZ9TYTqj3M2tf99b4g5jLim5WKPqN9Sd": [
     {
       "mergePool": "9L6YWXoS2F99mQTZiHfdTrtcKjxVXq5BWhZNxNCGRscH",

@@ -107,7 +107,7 @@
       "name": "wrapped-sollet"
     }
   },
-  "timestamp": "2026-10-15T13:01:42.589Z",
+  "timestamp": "2026-10-16T12:58:25.143Z",
   "tokens": [
     {
       "address": "21qs5gYkJtVSyi5VxcvYX63EwBiuzVc6uDrjoQkUQZQR",
@@ -806,6 +806,13 @@
         "wrapped",
         "wormhole"
       ]
+    },
+    {
+      "address": "3o5KKS4kizGMShTCoUGVyayJVLhM7XU62V7rWi5P5bsv",
+      "chainId": 101,
+      "decimals": 8,
+      "name": "Token 3o5K",
+      "symbol": "3o5KK"
     },
     {
       "address": "3os2M3bX9qta154PRbU9rzaPUYAKAqVpaMMS8u2hoUQu",
